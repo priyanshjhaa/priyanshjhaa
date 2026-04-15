@@ -1,111 +1,24 @@
-⚙️ Priyansh Jha
-Execution-focused Full Stack Developer**
-I build systems that run — not demos that break after the first use.
+# 💫 About Me:
+Priyansh Jha Execution-focused Full Stack Developer** I build systems that run — not demos that break after the first use.<br><br>🚀 What I Do<br><br>I design and build production-ready systems focused on:<br><br>Real-world workflows<br>Reliable backend infrastructure<br>Scalable execution<br>Turning ideas → working systems → usable products**.<br><br>🧠 Current Focus<br><br>AI-powered systems & automation<br>Backend infrastructure (APIs, workflows, execution engines)<br>Building products that improve with usage<br>🧩 Featured Systems<br><br>🔹 Execute (In Progress)<br><br>AI automation engine that converts natural language into deterministic workflows<br><br>Focus: execution systems, observability, automation<br>Stack: Node.js, LLM APIs, queues, webhooks<br>🔹 Axiom<br><br>Freelancer operating system for proposals, projects, and invoicing<br><br>Solves fragmented freelance workflows<br>Built as a connected system, not isolated features<br>🔹 Cinematch<br><br>Content discovery platform designed around real user behavior<br><br>API-driven architecture<br>Focus on recommendation and discovery systems<br>🛠 Tech Stack<br><br>Core React • Next.js • Node.js • Express<br><br>Backend & Data APIs • PostgreSQL • MongoDB • Prisma • Supabase<br><br>Systems & Tools Webhooks • Queues • Git • Postman • Vercel • Docker<br><br>📊 Engineering Mindset<br><br>Build for real use, not just demos<br>Prioritize systems that scale and survive iteration<br>Focus on execution, not just features<br>Built to run. Not reset.<br><br>🎯 What I’m Looking For<br><br>Early-stage startups<br>Product-driven teams<br>Roles where I can own systems end-to-end<br>📫 Connect<br><br>🌐 Portfolio: https://priyanshhjha.me 💼 LinkedIn: https://www.linkedin.com/in/priyansh-jha-489966284/ 📧 Email: Priyanshjhaa17@gmail.com<br><br>If you're building something ambitious and need someone who can execute — let's talk.
+
+
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/priyansh-jha-489966284/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/PriyaanshhJhaa) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:priyanshjhaa17@gmail.com) 
+
+# 💻 Tech Stack:
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white) ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=flat&logo=digitalOcean&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![PNPM](https://img.shields.io/badge/pnpm-%234a4a4a.svg?style=flat&logo=pnpm&logoColor=f69220) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=flat&logo=npm&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=flat&logo=vite&logoColor=white) ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=flat&logo=styled-components&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=flat&logo=react%20query&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=flat&logo=react-router&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=flat&logo=reacthookform&logoColor=white) ![Appwrite](https://img.shields.io/badge/Appwrite-%23FD366E.svg?style=flat&logo=appwrite&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=flat&logo=Prisma&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=flat&logo=firebase&logoColor=ffcd34)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=priyanshjhaa&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=priyanshjhaa&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=priyanshjhaa&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=priyanshjhaa&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
+[![](https://komarev.com/ghpvc/?username=priyanshjhaa&icon=0&color=0)](https://visitcount.itsvg.in)
 
- 🚀 What I Do
-
-I design and build **production-ready systems** focused on:
-
-* Real-world workflows
-* Reliable backend infrastructure
-* Scalable execution
-
-Turning ideas → working systems → usable products**.
-
----
-
-🧠 Current Focus
-
-* AI-powered systems & automation
-* Backend infrastructure (APIs, workflows, execution engines)
-* Building products that improve with usage
-
----
-
-🧩 Featured Systems
-
- 🔹 Execute *(In Progress)*
-
-AI automation engine that converts natural language into deterministic workflows
-
-* Focus: execution systems, observability, automation
-* Stack: Node.js, LLM APIs, queues, webhooks
-
----
-
- 🔹 Axiom
-
-Freelancer operating system for proposals, projects, and invoicing
-
-* Solves fragmented freelance workflows
-* Built as a connected system, not isolated features
-
----
-
- 🔹 Cinematch
-
-Content discovery platform designed around real user behavior
-
-* API-driven architecture
-* Focus on recommendation and discovery systems
-
----
-
-🛠 Tech Stack
-
-**Core**
-React • Next.js • Node.js • Express
-
-**Backend & Data**
-APIs • PostgreSQL • MongoDB • Prisma • Supabase
-
-**Systems & Tools**
-Webhooks • Queues • Git • Postman • Vercel • Docker
-
----
-
- 📊 Engineering Mindset
-
-* Build for **real use**, not just demos
-* Prioritize **systems that scale and survive iteration**
-* Focus on **execution, not just features**
-
-> Built to run. Not reset.
-
----
-
-🎯 What I’m Looking For
-
-* Early-stage startups
-* Product-driven teams
-* Roles where I can **own systems end-to-end**
-
----
-
-📫 Connect
-
-🌐 Portfolio: https://priyanshhjha.me
-💼 LinkedIn: https://www.linkedin.com/in/priyansh-jha-489966284/
-📧 Email: [Priyanshjhaa17@gmail.com](mailto:Priyanshjhaa17@gmail.com)
-
----
-
-> If you're building something ambitious and need someone who can execute — let's talk.
-
-
-<!--
-**priyanshjhaa/priyanshjhaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
