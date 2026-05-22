@@ -10,11 +10,11 @@ Full-stack engineer focused on backend systems, workflow infrastructure, and dev
 
 **Execute** — deterministic workflow execution engine. Converts natural language into reliable, observable workflows with queue-based execution and webhook integrations.
 
-<img src="assets/screenshots/Execute.png" alt="Execute" width="600" />
+<img src="assets/Screenshots/Execute.png" alt="Execute" width="600" />
 
 **CodeMap** — repository intelligence platform. Static analysis + dependency mapping for codebase understanding.
 
-<img src="assets/screenshots/codemap.png" alt="CodeMap" width="600" />
+<img src="assets/Screenshots/codemap.png" alt="CodeMap" width="600" />
 
 ### Featured Projects
 
@@ -23,12 +23,12 @@ Full-stack engineer focused on backend systems, workflow infrastructure, and dev
     <td width="50%">
       <strong>Axiom</strong> — freelancer operating system. Handles proposals, project tracking, and invoicing as a connected system rather than isolated features. Built with Next.js, PostgreSQL, and Prisma.
       <br/><br/>
-      <img src="assets/screenshots/Axiom.png" alt="Axiom" />
+      <img src="assets/Screenshots/Axiom.png" alt="Axiom" />
     </td>
     <td width="50%">
       <strong>Cinematch</strong> — content discovery platform. API-driven recommendation engine focused on real user behavior patterns.
       <br/><br/>
-      <img src="assets/screenshots/Cinematch.png" alt="Cinematch" />
+      <img src="assets/Screenshots/Cinematch.png" alt="Cinematch" />
     </td>
   </tr>
 </table>
