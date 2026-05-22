@@ -1,24 +1,67 @@
-# 💫 About Me:
-Priyansh Jha Execution-focused Full Stack Developer** I build systems that run — not demos that break after the first use.<br><br>🚀 What I Do<br><br>I design and build production-ready systems focused on:<br><br>Real-world workflows<br>Reliable backend infrastructure<br>Scalable execution<br>Turning ideas → working systems → usable products**.<br><br>🧠 Current Focus<br><br>AI-powered systems & automation<br>Backend infrastructure (APIs, workflows, execution engines)<br>Building products that improve with usage<br>🧩 Featured Systems<br><br>🔹 Execute (In Progress)<br><br>AI automation engine that converts natural language into deterministic workflows<br><br>Focus: execution systems, observability, automation<br>Stack: Node.js, LLM APIs, queues, webhooks<br>🔹 Axiom<br><br>Freelancer operating system for proposals, projects, and invoicing<br><br>Solves fragmented freelance workflows<br>Built as a connected system, not isolated features<br>🔹 Cinematch<br><br>Content discovery platform designed around real user behavior<br><br>API-driven architecture<br>Focus on recommendation and discovery systems<br>🛠 Tech Stack<br><br>Core React • Next.js • Node.js • Express<br><br>Backend & Data APIs • PostgreSQL • MongoDB • Prisma • Supabase<br><br>Systems & Tools Webhooks • Queues • Git • Postman • Vercel • Docker<br><br>📊 Engineering Mindset<br><br>Build for real use, not just demos<br>Prioritize systems that scale and survive iteration<br>Focus on execution, not just features<br>Built to run. Not reset.<br><br>🎯 What I’m Looking For<br><br>Early-stage startups<br>Product-driven teams<br>Roles where I can own systems end-to-end<br>📫 Connect<br><br>🌐 Portfolio: https://priyanshhjha.me 💼 LinkedIn: https://www.linkedin.com/in/priyansh-jha-489966284/ 📧 Email: Priyanshjhaa17@gmail.com<br><br>If you're building something ambitious and need someone who can execute — let's talk.
+# Priyansh Jha
 
+Full-stack engineer focused on backend systems, workflow infrastructure, and developer tooling. I build systems that run in production — not demos that break after the first use.
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/priyansh-jha-489966284/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/PriyaanshhJhaa) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:priyanshjhaa17@gmail.com) 
-
-# 💻 Tech Stack:
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white) ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=flat&logo=digitalOcean&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![PNPM](https://img.shields.io/badge/pnpm-%234a4a4a.svg?style=flat&logo=pnpm&logoColor=f69220) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=flat&logo=npm&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=flat&logo=vite&logoColor=white) ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=flat&logo=styled-components&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=flat&logo=react%20query&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=flat&logo=react-router&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=flat&logo=reacthookform&logoColor=white) ![Appwrite](https://img.shields.io/badge/Appwrite-%23FD366E.svg?style=flat&logo=appwrite&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=flat&logo=Prisma&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=flat&logo=firebase&logoColor=ffcd34)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=priyanshjhaa&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=priyanshjhaa&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=priyanshjhaa&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=priyanshjhaa&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+**Looking for:** early-stage startup roles (remote), product-driven teams, positions where I can own systems end-to-end.
 
 ---
-[![](https://komarev.com/ghpvc/?username=priyanshjhaa&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### Currently Shipping
+
+**Execute** — deterministic workflow execution engine. Converts natural language into reliable, observable workflows with queue-based execution and webhook integrations.
+
+<img src="assets/screenshots/Execute.png" alt="Execute" width="600" />
+
+**CodeMap** — repository intelligence platform. Static analysis + dependency mapping for codebase understanding.
+
+<img src="assets/screenshots/codemap.png" alt="CodeMap" width="600" />
+
+### Featured Projects
+
+<table>
+  <tr>
+    <td width="50%">
+      <strong>Axiom</strong> — freelancer operating system. Handles proposals, project tracking, and invoicing as a connected system rather than isolated features. Built with Next.js, PostgreSQL, and Prisma.
+      <br/><br/>
+      <img src="assets/screenshots/Axiom.png" alt="Axiom" />
+    </td>
+    <td width="50%">
+      <strong>Cinematch</strong> — content discovery platform. API-driven recommendation engine focused on real user behavior patterns.
+      <br/><br/>
+      <img src="assets/screenshots/Cinematch.png" alt="Cinematch" />
+    </td>
+  </tr>
+</table>
+
+### Engineering Highlights
+
+- Designed and built a workflow execution engine with deterministic task routing, retry logic, and observability
+- Architected multi-tenant SaaS with connected data models (proposals → projects → invoices)
+- Built repository analysis tooling with static parsing and dependency graph generation
+- Shipped production systems with queue-based async processing, webhook integrations, and API-first design
+
+### Stack
+
+**Languages:** TypeScript, JavaScript, Python, SQL
+**Backend:** Node.js, Express, REST APIs, async queues, webhooks
+**Frontend:** React, Next.js, Tailwind CSS
+**Data:** PostgreSQL, MongoDB, Prisma, Supabase
+**Infra:** Docker, Vercel, AWS, DigitalOcean
+
+---
+
+### GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.shion.dev/api?username=priyanshjhaa&theme=dark&hide_border=true&include_all_commits=false&count_private=true" alt="Stats" />
+</p>
+
+---
+
+**Portfolio:** [priyanshhjha.me](https://priyanshhjha.me)
+**LinkedIn:** [priyansh-jha](https://www.linkedin.com/in/priyansh-jha-489966284/)
+**Email:** [Priyanshjhaa17@gmail.com](mailto:Priyanshjhaa17@gmail.com)
+
+---
+
+Open to a quick call? I'm actively looking for my next role.
