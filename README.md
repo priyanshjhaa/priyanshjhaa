@@ -2,7 +2,7 @@
 
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:111827,45:1d4ed8,100:22d3ee&height=220&section=header&text=Priyansh%20Jha&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=I%20build%20the%20machinery%20behind%20useful%20products.&descAlignY=60&animation=fadeIn)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&pause=1100&color=38BDF8&center=true&vCenter=true&width=760&lines=natural+language+%E2%86%92+deterministic+workflows;unfamiliar+repository+%E2%86%92+navigable+system;scattered+freelance+work+%E2%86%92+one+operating+system)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&pause=1200&color=38BDF8&center=true&vCenter=true&width=760&lines=I+turn+ambiguous+ideas+into+reliable+systems.;I+build+products+from+interface+to+infrastructure.;Complex+under+the+hood.+Simple+where+it+matters.;Currently+exploring+AI-native+developer+tools.)](https://git.io/typing-svg)
 
 `full-stack engineer` · `systems thinker` · `CSE + AI/ML`
 
