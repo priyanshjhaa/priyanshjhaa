@@ -4,9 +4,14 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&pause=1200&color=38BDF8&center=true&vCenter=true&width=760&lines=I+turn+ambiguous+ideas+into+reliable+systems.;I+build+products+from+interface+to+infrastructure.;Complex+under+the+hood.+Simple+where+it+matters.;Currently+exploring+AI-native+developer+tools.)](https://git.io/typing-svg)
 
-`full-stack engineer` · `systems thinker` · `CSE + AI/ML`
+![Full-stack engineer](https://img.shields.io/badge/FULL--STACK_ENGINEER-0f172a?style=for-the-badge&logo=code&logoColor=38bdf8)
+![Systems builder](https://img.shields.io/badge/SYSTEMS_BUILDER-1d4ed8?style=for-the-badge&logo=serverless&logoColor=white)
+![CSE + AI/ML](https://img.shields.io/badge/CSE_%2B_AI%2FML-0891b2?style=for-the-badge&logo=brain&logoColor=white)
 
-[Portfolio](https://priyanshhjha.me) · [LinkedIn](https://www.linkedin.com/in/priyansh-jha-489966284/) · [X](https://x.com/PriyaanshhJhaa) · [Email](mailto:Priyanshjhaa17@gmail.com)
+[![Portfolio](https://img.shields.io/badge/portfolio-111827?style=flat-square&logo=vercel&logoColor=white)](https://priyanshhjha.me)
+[![LinkedIn](https://img.shields.io/badge/linkedin-1d4ed8?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/priyansh-jha-489966284/)
+[![X](https://img.shields.io/badge/follow_on_x-111827?style=flat-square&logo=x&logoColor=white)](https://x.com/PriyaanshhJhaa)
+[![Email](https://img.shields.io/badge/say_hello-ea4335?style=flat-square&logo=gmail&logoColor=white)](mailto:Priyanshjhaa17@gmail.com)
 
 </div>
 
@@ -22,6 +27,8 @@
 | Endless scrolling for something to watch | **Cinematch** | Discovery shaped around mood |
 
 My work sits where product thinking meets backend engineering. I care about the part users see, but I am most curious about the machinery underneath: execution models, connected data, useful abstractions, and systems that keep working after the demo.
+
+> **NOW:** Designing reliable AI-native workflows and tools that make complex systems easier to use.
 
 ```text
 current direction
@@ -43,6 +50,11 @@ Natural-language input is useful only when the system behind it is predictable. 
 
 `workflow engine` · `async queues` · `webhooks` · `observability`
 
+![TypeScript](https://img.shields.io/badge/TypeScript-3178c6?style=flat-square&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Queue--first-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Webhooks](https://img.shields.io/badge/Webhooks-7c3aed?style=flat-square&logo=webhooks&logoColor=white)
+![In progress](https://img.shields.io/badge/status-in%20progress-0891b2?style=flat-square)
+
 <a href="https://github.com/priyanshjhaa/Execute">
   <img src="assets/Screenshots/Execute.png" alt="Execute workflow engine preview" />
 </a>
@@ -54,6 +66,10 @@ Natural-language input is useful only when the system behind it is predictable. 
 CodeMap analyzes repository structure and dependencies, then turns static analysis into a clearer mental model for developers entering unfamiliar systems.
 
 `static analysis` · `dependency graphs` · `developer tooling`
+
+![Static analysis](https://img.shields.io/badge/Static_analysis-0f172a?style=flat-square&logo=eslint&logoColor=38bdf8)
+![Code graphs](https://img.shields.io/badge/Dependency_graphs-1d4ed8?style=flat-square&logo=graphql&logoColor=white)
+![Developer tooling](https://img.shields.io/badge/DX-0891b2?style=flat-square&logo=visualstudiocode&logoColor=white)
 
 <a href="https://github.com/priyanshjhaa/CodeMap">
   <img src="assets/Screenshots/codemap.png" alt="CodeMap repository intelligence preview" />
@@ -70,6 +86,10 @@ CodeMap analyzes repository structure and dependencies, then turns static analys
       <br/><br/>
       A freelancer operating system connecting proposals, project tracking, and invoicing through one multi-tenant data model.
       <br/><br/>
+      <img src="https://img.shields.io/badge/Next.js-111827?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
+      <img src="https://img.shields.io/badge/PostgreSQL-1d4ed8?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+      <img src="https://img.shields.io/badge/Multi--tenant-0891b2?style=flat-square" alt="Multi-tenant" />
+      <br/><br/>
       <a href="https://github.com/priyanshjhaa/Axiom">
         <img src="assets/Screenshots/Axiom.png" alt="Axiom preview" />
       </a>
@@ -78,6 +98,10 @@ CodeMap analyzes repository structure and dependencies, then turns static analys
       <a href="https://github.com/priyanshjhaa/Cinematch25"><strong>Cinematch</strong></a>
       <br/><br/>
       A movie discovery experience built around mood-based recommendations, favorites, and a polished browsing flow.
+      <br/><br/>
+      <img src="https://img.shields.io/badge/React-0f172a?style=flat-square&logo=react&logoColor=61dafb" alt="React" />
+      <img src="https://img.shields.io/badge/Firebase-ea580c?style=flat-square&logo=firebase&logoColor=white" alt="Firebase" />
+      <img src="https://img.shields.io/badge/Product_UX-7c3aed?style=flat-square" alt="Product UX" />
       <br/><br/>
       <a href="https://github.com/priyanshjhaa/Cinematch25">
         <img src="assets/Screenshots/Cinematch.png" alt="Cinematch preview" />
@@ -103,10 +127,10 @@ flowchart LR
 
 | Layer | Tools I reach for |
 | :--- | :--- |
-| Product surface | React, Next.js, Tailwind CSS |
-| Application layer | TypeScript, Node.js, Express, REST APIs |
-| Data & state | PostgreSQL, MongoDB, Prisma, Supabase |
-| Delivery | Docker, Vercel, AWS, DigitalOcean |
+| Product surface | ![React](https://img.shields.io/badge/React-20232a?style=flat-square&logo=react&logoColor=61dafb) ![Next.js](https://img.shields.io/badge/Next.js-111827?style=flat-square&logo=nextdotjs&logoColor=white) ![Tailwind](https://img.shields.io/badge/Tailwind-0891b2?style=flat-square&logo=tailwindcss&logoColor=white) |
+| Application layer | ![TypeScript](https://img.shields.io/badge/TypeScript-3178c6?style=flat-square&logo=typescript&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Express](https://img.shields.io/badge/Express-111827?style=flat-square&logo=express&logoColor=white) |
+| Data & state | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1d4ed8?style=flat-square&logo=postgresql&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-0f172a?style=flat-square&logo=prisma&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-059669?style=flat-square&logo=supabase&logoColor=white) |
+| Delivery | ![Docker](https://img.shields.io/badge/Docker-0284c7?style=flat-square&logo=docker&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-232f3e?style=flat-square&logo=amazonwebservices&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-111827?style=flat-square&logo=vercel&logoColor=white) |
 | Recurring interests | Async systems, webhooks, static analysis, AI integrations |
 
 ---
