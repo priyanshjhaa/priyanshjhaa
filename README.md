@@ -2,11 +2,21 @@
 
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:111827,45:1d4ed8,100:22d3ee&height=220&section=header&text=Priyansh%20Jha&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=I%20build%20the%20machinery%20behind%20useful%20products.&descAlignY=60&animation=fadeIn)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&pause=1200&color=38BDF8&center=true&vCenter=true&width=760&lines=I+turn+ambiguous+ideas+into+reliable+systems.;I+build+products+from+interface+to+infrastructure.;Complex+under+the+hood.+Simple+where+it+matters.;Currently+exploring+AI-native+developer+tools.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=1100&color=38BDF8&center=true&vCenter=true&width=880&lines=Product-minded+full-stack+engineer.;I+design+the+interface+and+the+system+behind+it.;Shipping+AI-native+tools%2C+workflow+engines%2C+and+SaaS+products.;I+care+about+speed%2C+clarity%2C+reliability%2C+and+taste.)](https://git.io/typing-svg)
 
-![Full-stack engineer](https://img.shields.io/badge/FULL--STACK_ENGINEER-0f172a?style=for-the-badge&logo=code&logoColor=38bdf8)
-![Systems builder](https://img.shields.io/badge/SYSTEMS_BUILDER-1d4ed8?style=for-the-badge&logo=serverless&logoColor=white)
-![CSE + AI/ML](https://img.shields.io/badge/CSE_%2B_AI%2FML-0891b2?style=for-the-badge&logo=brain&logoColor=white)
+![Product engineer](https://img.shields.io/badge/PRODUCT_ENGINEER-020617?style=for-the-badge&logo=producthunt&logoColor=38bdf8)
+![Full stack](https://img.shields.io/badge/FULL_STACK-1d4ed8?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Backend systems](https://img.shields.io/badge/BACKEND_SYSTEMS-0891b2?style=for-the-badge&logo=nestjs&logoColor=white)
+![AI tools](https://img.shields.io/badge/AI_NATIVE_TOOLS-7c3aed?style=for-the-badge&logo=openai&logoColor=white)
+
+<br/>
+
+![TypeScript](https://img.shields.io/badge/TypeScript-0f172a?style=flat-square&logo=typescript&logoColor=38bdf8)
+![Next.js](https://img.shields.io/badge/Next.js-0f172a?style=flat-square&logo=nextdotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-0f172a?style=flat-square&logo=nodedotjs&logoColor=22c55e)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0f172a?style=flat-square&logo=postgresql&logoColor=60a5fa)
+![Docker](https://img.shields.io/badge/Docker-0f172a?style=flat-square&logo=docker&logoColor=38bdf8)
+![AWS](https://img.shields.io/badge/AWS-0f172a?style=flat-square&logo=amazonwebservices&logoColor=f59e0b)
 
 [![Portfolio](https://img.shields.io/badge/portfolio-111827?style=flat-square&logo=vercel&logoColor=white)](https://priyanshhjha.me)
 [![LinkedIn](https://img.shields.io/badge/linkedin-1d4ed8?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/priyansh-jha-489966284/)
@@ -14,6 +24,48 @@
 [![Email](https://img.shields.io/badge/say_hello-ea4335?style=flat-square&logo=gmail&logoColor=white)](mailto:Priyanshjhaa17@gmail.com)
 
 </div>
+
+---
+
+## Product Engineering Console
+
+<table>
+  <tr>
+    <td width="33%" align="center">
+      <strong>Product Sense</strong>
+      <br/>
+      Turning fuzzy ideas into scoped, usable product loops.
+      <br/><br/>
+      <img src="https://img.shields.io/badge/user_flow-0f172a?style=flat-square" alt="User flow" />
+      <img src="https://img.shields.io/badge/MVP-1d4ed8?style=flat-square" alt="MVP" />
+    </td>
+    <td width="33%" align="center">
+      <strong>System Design</strong>
+      <br/>
+      Building APIs, data models, queues, and integrations that hold up.
+      <br/><br/>
+      <img src="https://img.shields.io/badge/API_design-0f172a?style=flat-square" alt="API design" />
+      <img src="https://img.shields.io/badge/queues-0891b2?style=flat-square" alt="Queues" />
+    </td>
+    <td width="33%" align="center">
+      <strong>Execution Quality</strong>
+      <br/>
+      Treating reliability, observability, and polish as product features.
+      <br/><br/>
+      <img src="https://img.shields.io/badge/retries-0f172a?style=flat-square" alt="Retries" />
+      <img src="https://img.shields.io/badge/observability-7c3aed?style=flat-square" alt="Observability" />
+    </td>
+  </tr>
+</table>
+
+```text
+build profile
+├─ ship the product surface
+├─ own the backend contract
+├─ design the data shape
+├─ automate the boring path
+└─ make the system understandable
+```
 
 ---
 
@@ -28,7 +80,7 @@
 
 My work sits where product thinking meets backend engineering. I care about the part users see, but I am most curious about the machinery underneath: execution models, connected data, useful abstractions, and systems that keep working after the demo.
 
-> **NOW:** Designing reliable AI-native workflows and tools that make complex systems easier to use.
+> **NOW:** Building product-grade AI workflows, repository intelligence, and SaaS systems with reliable foundations.
 
 ```text
 current direction
@@ -42,38 +94,47 @@ current direction
 
 ## The Workshop
 
-### 01 / Execute
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>01 / Execute</h3>
+      <strong>A workflow engine for turning intent into reliable execution.</strong>
+      <br/><br/>
+      Natural-language input is useful only when the system behind it is predictable. Execute focuses on deterministic task routing, queue-based processing, retries, webhooks, and observability.
+      <br/><br/>
+      <code>workflow engine</code> · <code>async queues</code> · <code>webhooks</code> · <code>observability</code>
+      <br/><br/>
+      <img src="https://img.shields.io/badge/problem-unreliable_manual_work-020617?style=flat-square" alt="Problem" />
+      <img src="https://img.shields.io/badge/outcome-repeatable_execution-1d4ed8?style=flat-square" alt="Outcome" />
+      <img src="https://img.shields.io/badge/status-in_progress-0891b2?style=flat-square" alt="Status" />
+      <br/><br/>
+      <a href="https://github.com/priyanshjhaa/Execute">
+        <img src="assets/Screenshots/Execute.png" alt="Execute workflow engine preview" />
+      </a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>02 / CodeMap</h3>
+      <strong>A map for codebases that have outgrown a quick read-through.</strong>
+      <br/><br/>
+      CodeMap analyzes repository structure and dependencies, then turns static analysis into a clearer mental model for developers entering unfamiliar systems.
+      <br/><br/>
+      <code>static analysis</code> · <code>dependency graphs</code> · <code>developer tooling</code>
+      <br/><br/>
+      <img src="https://img.shields.io/badge/problem-large_unfamiliar_repos-020617?style=flat-square" alt="Problem" />
+      <img src="https://img.shields.io/badge/outcome-faster_onboarding-1d4ed8?style=flat-square" alt="Outcome" />
+      <img src="https://img.shields.io/badge/focus-developer_experience-7c3aed?style=flat-square" alt="Focus" />
+      <br/><br/>
+      <a href="https://github.com/priyanshjhaa/CodeMap">
+        <img src="assets/Screenshots/codemap.png" alt="CodeMap repository intelligence preview" />
+      </a>
+    </td>
+  </tr>
+</table>
 
-**A workflow engine for turning intent into reliable execution.**
-
-Natural-language input is useful only when the system behind it is predictable. Execute focuses on deterministic task routing, queue-based processing, retries, webhooks, and observability.
-
-`workflow engine` · `async queues` · `webhooks` · `observability`
-
-![TypeScript](https://img.shields.io/badge/TypeScript-3178c6?style=flat-square&logo=typescript&logoColor=white)
-![Node.js](https://img.shields.io/badge/Queue--first-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Webhooks](https://img.shields.io/badge/Webhooks-7c3aed?style=flat-square&logo=webhooks&logoColor=white)
-![In progress](https://img.shields.io/badge/status-in%20progress-0891b2?style=flat-square)
-
-<a href="https://github.com/priyanshjhaa/Execute">
-  <img src="assets/Screenshots/Execute.png" alt="Execute workflow engine preview" />
-</a>
-
-### 02 / CodeMap
-
-**A map for codebases that have outgrown a quick read-through.**
-
-CodeMap analyzes repository structure and dependencies, then turns static analysis into a clearer mental model for developers entering unfamiliar systems.
-
-`static analysis` · `dependency graphs` · `developer tooling`
-
-![Static analysis](https://img.shields.io/badge/Static_analysis-0f172a?style=flat-square&logo=eslint&logoColor=38bdf8)
-![Code graphs](https://img.shields.io/badge/Dependency_graphs-1d4ed8?style=flat-square&logo=graphql&logoColor=white)
-![Developer tooling](https://img.shields.io/badge/DX-0891b2?style=flat-square&logo=visualstudiocode&logoColor=white)
-
-<a href="https://github.com/priyanshjhaa/CodeMap">
-  <img src="assets/Screenshots/codemap.png" alt="CodeMap repository intelligence preview" />
-</a>
+<!--
+The two cards above intentionally lead with product problems and outcomes.
+The repo links remain on the screenshots so the section stays visual without becoming noisy.
+-->
 
 <details>
 <summary><strong>More things I have shipped</strong></summary>
@@ -114,6 +175,14 @@ CodeMap analyzes repository structure and dependencies, then turns static analys
 
 ---
 
+## Stack Texture
+
+<div align="center">
+
+![Skills](https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,express,postgres,prisma,supabase,docker,aws,vercel,tailwind,git,github,vscode&perline=8)
+
+</div>
+
 ## How I Build
 
 ```mermaid
@@ -138,6 +207,8 @@ flowchart LR
 ## Build Signals
 
 <div align="center">
+
+![Contribution grid snake](https://raw.githubusercontent.com/priyanshjhaa/priyanshjhaa/output/github-contribution-grid-snake-dark.svg)
 
 <img height="175" src="https://github-readme-stats.vercel.app/api?username=priyanshjhaa&show_icons=true&theme=transparent&hide_border=true&title_color=38bdf8&text_color=94a3b8&icon_color=2563eb&rank_icon=github" alt="Priyansh's GitHub stats" />
 <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyanshjhaa&layout=compact&theme=transparent&hide_border=true&title_color=38bdf8&text_color=94a3b8&langs_count=6" alt="Priyansh's most used languages" />
