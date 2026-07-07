@@ -1,0 +1,64 @@
+<svg width="1200" height="330" viewBox="0 0 1200 330" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Product engineering map</title>
+  <desc id="desc">A simple visual map from problem to product to system to learning loop.</desc>
+  <style>
+    .heading { font: 800 28px Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; fill: #f8fafc; }
+    .body { font: 500 17px Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; fill: #cbd5e1; }
+    .mono { font: 700 13px "JetBrains Mono", ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace; fill: #7dd3fc; letter-spacing: .5px; }
+    .dot { animation: glow 3s ease-in-out infinite; }
+    .dot2 { animation: glow 3s ease-in-out infinite 1s; }
+    .dot3 { animation: glow 3s ease-in-out infinite 2s; }
+    @keyframes glow { 0%,100% { opacity: .35; } 50% { opacity: 1; } }
+  </style>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="330" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#020617"/>
+      <stop offset=".55" stop-color="#0f172a"/>
+      <stop offset="1" stop-color="#111827"/>
+    </linearGradient>
+    <linearGradient id="stroke" x1="110" y1="165" x2="1090" y2="165" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#38bdf8"/>
+      <stop offset=".5" stop-color="#6366f1"/>
+      <stop offset="1" stop-color="#22c55e"/>
+    </linearGradient>
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="18" stdDeviation="18" flood-color="#000000" flood-opacity=".28"/>
+    </filter>
+  </defs>
+
+  <rect width="1200" height="330" rx="28" fill="url(#bg)"/>
+  <rect x="1" y="1" width="1198" height="328" rx="27" stroke="#1e293b" stroke-width="2"/>
+  <path d="M130 166H1070" stroke="url(#stroke)" stroke-width="4" stroke-linecap="round"/>
+
+  <g filter="url(#shadow)">
+    <rect x="70" y="84" width="220" height="164" rx="24" fill="#020617" stroke="#1e293b"/>
+    <text x="100" y="124" class="mono">STEP 01</text>
+    <text x="100" y="164" class="heading">Problem</text>
+    <text x="100" y="198" class="body">Find the real user pain.</text>
+  </g>
+
+  <g filter="url(#shadow)">
+    <rect x="350" y="84" width="220" height="164" rx="24" fill="#020617" stroke="#1e293b"/>
+    <text x="380" y="124" class="mono">STEP 02</text>
+    <text x="380" y="164" class="heading">Product</text>
+    <text x="380" y="198" class="body">Shape the simplest useful flow.</text>
+  </g>
+
+  <g filter="url(#shadow)">
+    <rect x="630" y="84" width="220" height="164" rx="24" fill="#020617" stroke="#1e293b"/>
+    <text x="660" y="124" class="mono">STEP 03</text>
+    <text x="660" y="164" class="heading">System</text>
+    <text x="660" y="198" class="body">Build the reliable machinery.</text>
+  </g>
+
+  <g filter="url(#shadow)">
+    <rect x="910" y="84" width="220" height="164" rx="24" fill="#020617" stroke="#1e293b"/>
+    <text x="940" y="124" class="mono">STEP 04</text>
+    <text x="940" y="164" class="heading">Learning</text>
+    <text x="940" y="198" class="body">Observe, sharpen, repeat.</text>
+  </g>
+
+  <circle class="dot" cx="300" cy="166" r="8" fill="#38bdf8"/>
+  <circle class="dot2" cx="580" cy="166" r="8" fill="#6366f1"/>
+  <circle class="dot3" cx="860" cy="166" r="8" fill="#22c55e"/>
+</svg>
