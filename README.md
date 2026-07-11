@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="assets/profile-hero.svg" alt="Priyansh Jha - full-stack product engineer" width="100%" />
+### Hi, I am Priyansh Jha
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=20&pause=1400&color=38BDF8&center=true&vCenter=true&width=850&lines=Full-stack+engineer+focused+on+product%2C+systems%2C+and+developer+tools.;Building+reliable+interfaces%2C+APIs%2C+data+models%2C+and+AI-assisted+workflows.;Interested+in+SaaS%2C+developer+experience%2C+and+backend-heavy+products.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=18&pause=1400&color=38BDF8&center=true&vCenter=true&width=760&lines=Full-stack+engineer+focused+on+product+and+systems.;Building+developer+tools%2C+SaaS+products%2C+and+AI-assisted+workflows.;I+care+about+clear+interfaces%2C+reliable+backends%2C+and+maintainable+code.)](https://git.io/typing-svg)
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-0f172a?style=flat-square&logo=vercel&logoColor=white)](https://priyanshhjha.me)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0a66c2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/priyansh-jha-489966284/)
@@ -105,8 +105,6 @@ My work currently centers on developer tools, workflow automation, SaaS products
 ---
 
 ## Engineering Approach
-
-<img src="assets/product-map.svg" alt="Engineering approach map" width="100%" />
 
 | Principle | How it shows up in my work |
 | :--- | :--- |
