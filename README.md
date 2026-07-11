@@ -1,34 +1,44 @@
 <div align="center">
 
-### Hi, I am Priyansh Jha
+# Priyansh Jha
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=18&pause=1400&color=38BDF8&center=true&vCenter=true&width=760&lines=Full-stack+engineer+focused+on+product+and+systems.;Building+developer+tools%2C+SaaS+products%2C+and+AI-assisted+workflows.;I+care+about+clear+interfaces%2C+reliable+backends%2C+and+maintainable+code.)](https://git.io/typing-svg)
+**Full-stack engineer focused on product, backend systems, and developer tools.**
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-0f172a?style=flat-square&logo=vercel&logoColor=white)](https://priyanshhjha.me)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0a66c2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/priyansh-jha-489966284/)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&pause=1400&color=38BDF8&center=true&vCenter=true&width=760&lines=I+build+clean+interfaces+backed+by+reliable+systems.;Currently+working+on+developer+tools+and+workflow+automation.;Interested+in+SaaS%2C+AI-assisted+workflows%2C+and+backend-heavy+products.)](https://git.io/typing-svg)
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-111827?style=flat-square&logo=vercel&logoColor=white)](https://priyanshhjha.me)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/priyansh-jha-489966284/)
 [![X](https://img.shields.io/badge/X-111827?style=flat-square&logo=x&logoColor=white)](https://x.com/PriyaanshhJhaa)
-[![Email](https://img.shields.io/badge/Email-ea4335?style=flat-square&logo=gmail&logoColor=white)](mailto:Priyanshjhaa17@gmail.com)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:Priyanshjhaa17@gmail.com)
 
 </div>
 
 ---
 
-## Profile
+## Contents
 
-I am a full-stack engineer with a strong interest in product-oriented engineering: building the interface users interact with, the backend systems that support it, and the technical foundations that keep the product maintainable as it grows.
-
-My work currently centers on developer tools, workflow automation, SaaS products, and AI-assisted experiences. I care about clear product thinking, reliable system design, and practical execution.
+- [About](#about)
+- [Selected Work](#selected-work)
+- [Technical Stack](#technical-stack)
+- [Engineering Focus](#engineering-focus)
+- [Contact](#contact)
 
 ---
 
-## Current Focus
+## About
 
-| Area | What I am working on |
+I build full-stack products with attention to both user experience and system design. My work usually sits between product interfaces, APIs, data models, background jobs, and the operational details that make software dependable after launch.
+
+Right now, I am especially interested in developer tools, workflow automation, SaaS platforms, and AI-assisted products where reliability matters as much as the interface.
+
+**Current direction**
+
+| Focus | Details |
 | :--- | :--- |
-| Developer tools | Repository understanding, codebase navigation, static analysis, and developer experience |
-| Workflow systems | Background jobs, task routing, retries, webhooks, and operational visibility |
-| Product engineering | Interfaces, APIs, data models, authentication, and multi-tenant product flows |
-| AI-assisted software | Applying AI where it improves workflows without making the system unpredictable |
+| Developer tools | Repository understanding, static analysis, dependency mapping, developer experience |
+| Workflow automation | Task routing, background jobs, retries, webhooks, operational visibility |
+| Product engineering | Interfaces, authentication, dashboards, multi-tenant flows, product polish |
+| AI-assisted software | Practical AI features supported by predictable systems and clear UX |
 
 ---
 
@@ -41,9 +51,11 @@ My work currently centers on developer tools, workflow automation, SaaS products
         <img src="assets/Screenshots/codemap.png" alt="CodeMap preview" />
       </a>
       <h3>CodeMap</h3>
-      <p>A developer tool for understanding unfamiliar codebases through repository structure, dependency relationships, and clearer navigation paths.</p>
       <p>
-        <img src="https://img.shields.io/badge/static_analysis-0f172a?style=flat-square" alt="Static analysis" />
+        A developer tool for understanding unfamiliar repositories through structure, relationships, and clearer navigation paths.
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/static_analysis-111827?style=flat-square" alt="Static analysis" />
         <img src="https://img.shields.io/badge/dependency_mapping-1d4ed8?style=flat-square" alt="Dependency mapping" />
         <img src="https://img.shields.io/badge/developer_experience-0891b2?style=flat-square" alt="Developer experience" />
       </p>
@@ -53,9 +65,11 @@ My work currently centers on developer tools, workflow automation, SaaS products
         <img src="assets/Screenshots/Execute.png" alt="Execute preview" />
       </a>
       <h3>Execute</h3>
-      <p>A workflow execution system focused on reliable task routing, asynchronous processing, retries, webhooks, and observability.</p>
       <p>
-        <img src="https://img.shields.io/badge/workflow_engine-0f172a?style=flat-square" alt="Workflow engine" />
+        A workflow execution system focused on reliable task routing, asynchronous processing, retries, webhooks, and observability.
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/workflow_engine-111827?style=flat-square" alt="Workflow engine" />
         <img src="https://img.shields.io/badge/background_jobs-1d4ed8?style=flat-square" alt="Background jobs" />
         <img src="https://img.shields.io/badge/observability-0891b2?style=flat-square" alt="Observability" />
       </p>
@@ -64,63 +78,63 @@ My work currently centers on developer tools, workflow automation, SaaS products
 </table>
 
 <details>
-<summary><strong>Additional Projects</strong></summary>
+<summary><strong>More projects</strong></summary>
 <br/>
 
-| Project | Description | Technical focus |
+| Project | What it does | Technical focus |
 | :--- | :--- | :--- |
-| [Axiom](https://github.com/priyanshjhaa/Axiom) | A freelancer workspace for proposals, projects, invoicing, and client operations. | Next.js, PostgreSQL, multi-tenant architecture |
-| [Cinematch](https://github.com/priyanshjhaa/Cinematch25) | A movie discovery product with mood-based browsing and favorites. | React, Firebase, product UX |
+| [Axiom](https://github.com/priyanshjhaa/Axiom) | Freelancer workspace for proposals, projects, invoices, and client operations. | Next.js, PostgreSQL, multi-tenant architecture |
+| [Cinematch](https://github.com/priyanshjhaa/Cinematch25) | Movie discovery experience shaped around mood-based browsing and favorites. | React, Firebase, product UX |
 
 </details>
 
 ---
 
-## Technical Strengths
+## Technical Stack
 
 <div align="center">
 
-![TypeScript](https://img.shields.io/badge/TypeScript-0f172a?style=flat-square&logo=typescript&logoColor=38bdf8)
-![React](https://img.shields.io/badge/React-0f172a?style=flat-square&logo=react&logoColor=61dafb)
-![Next.js](https://img.shields.io/badge/Next.js-0f172a?style=flat-square&logo=nextdotjs&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-0f172a?style=flat-square&logo=nodedotjs&logoColor=22c55e)
-![Express](https://img.shields.io/badge/Express-0f172a?style=flat-square&logo=express&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0f172a?style=flat-square&logo=postgresql&logoColor=60a5fa)
-![Prisma](https://img.shields.io/badge/Prisma-0f172a?style=flat-square&logo=prisma&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-0f172a?style=flat-square&logo=supabase&logoColor=3ecf8e)
-![Docker](https://img.shields.io/badge/Docker-0f172a?style=flat-square&logo=docker&logoColor=38bdf8)
-![AWS](https://img.shields.io/badge/AWS-0f172a?style=flat-square&logo=amazonwebservices&logoColor=f59e0b)
-![Vercel](https://img.shields.io/badge/Vercel-0f172a?style=flat-square&logo=vercel&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-111827?style=flat-square&logo=typescript&logoColor=38bdf8)
+![JavaScript](https://img.shields.io/badge/JavaScript-111827?style=flat-square&logo=javascript&logoColor=f7df1e)
+![React](https://img.shields.io/badge/React-111827?style=flat-square&logo=react&logoColor=61dafb)
+![Next.js](https://img.shields.io/badge/Next.js-111827?style=flat-square&logo=nextdotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-111827?style=flat-square&logo=nodedotjs&logoColor=22c55e)
+![Express](https://img.shields.io/badge/Express-111827?style=flat-square&logo=express&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-111827?style=flat-square&logo=postgresql&logoColor=60a5fa)
+![Prisma](https://img.shields.io/badge/Prisma-111827?style=flat-square&logo=prisma&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-111827?style=flat-square&logo=supabase&logoColor=3ecf8e)
+![Docker](https://img.shields.io/badge/Docker-111827?style=flat-square&logo=docker&logoColor=38bdf8)
+![AWS](https://img.shields.io/badge/AWS-111827?style=flat-square&logo=amazonwebservices&logoColor=f59e0b)
+![Vercel](https://img.shields.io/badge/Vercel-111827?style=flat-square&logo=vercel&logoColor=white)
 
 </div>
 
-| Layer | Focus |
+| Layer | Tools and concepts |
 | :--- | :--- |
-| Frontend | Product interfaces, dashboards, responsive UI, component-driven development |
-| Backend | API design, authentication, job processing, webhooks, service boundaries |
-| Data | PostgreSQL schemas, Prisma models, relational data design, multi-tenant patterns |
-| Delivery | Dockerized services, Vercel deployments, cloud infrastructure, environment setup |
-| Product quality | Reliability, observability, clear user flows, maintainable architecture |
+| Frontend | React, Next.js, Tailwind CSS, dashboards, responsive product UI |
+| Backend | Node.js, Express, REST APIs, authentication, webhooks, background jobs |
+| Data | PostgreSQL, Prisma, Supabase, relational modeling, multi-tenant patterns |
+| Infrastructure | Docker, AWS, Vercel, deployment workflows, environment configuration |
+| Product quality | Observability, failure handling, clear UX, maintainable architecture |
 
 ---
 
-## Engineering Approach
+## Engineering Focus
 
-| Principle | How it shows up in my work |
+| Principle | How I apply it |
 | :--- | :--- |
-| Start with the product outcome | Define the user workflow before choosing the implementation details. |
-| Keep the system understandable | Prefer clear data models, explicit boundaries, and debuggable flows. |
-| Design for failure paths | Treat retries, validation, and observability as part of the product. |
-| Iterate from real usage | Improve based on feedback, constraints, and what the system reveals after shipping. |
+| Product first | Start from the user workflow and define the smallest useful product surface. |
+| Clear contracts | Keep APIs, data models, and service boundaries explicit. |
+| Reliable execution | Design retries, validation, queueing, and observability into the workflow. |
+| Practical AI | Use AI where it improves a product flow without making behavior unpredictable. |
+| Iterative shipping | Build, test with real constraints, and refine based on feedback. |
 
 ---
 
-<div align="center">
+## Contact
 
-### Open to product engineering opportunities
+I am open to product engineering roles, internships, and early-stage teams working on SaaS, developer tools, AI-assisted workflows, or backend-heavy platforms.
 
-I am interested in teams building SaaS products, developer tools, AI-enabled workflows, and backend-heavy platforms with thoughtful user experiences.
-
-**[Portfolio](https://priyanshhjha.me)** · **[LinkedIn](https://www.linkedin.com/in/priyansh-jha-489966284/)** · **[Email](mailto:Priyanshjhaa17@gmail.com)**
-
-</div>
+- Portfolio: [priyanshhjha.me](https://priyanshhjha.me)
+- LinkedIn: [priyansh-jha-489966284](https://www.linkedin.com/in/priyansh-jha-489966284/)
+- Email: [Priyanshjhaa17@gmail.com](mailto:Priyanshjhaa17@gmail.com)
