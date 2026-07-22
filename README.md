@@ -2,9 +2,14 @@
 
 # Priyansh Jha
 
-**Full-stack engineer focused on product, backend systems, and developer tools.**
+**Full-stack engineer building product-focused systems, developer tools, and AI-assisted workflows.**
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&pause=1400&color=38BDF8&center=true&vCenter=true&width=760&lines=I+build+clean+interfaces+backed+by+reliable+systems.;Currently+working+on+developer+tools+and+workflow+automation.;Interested+in+SaaS%2C+AI-assisted+workflows%2C+and+backend-heavy+products.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&pause=1400&color=38BDF8&center=true&vCenter=true&width=820&lines=Clean+interfaces.+Reliable+systems.+Useful+products.;Building+developer+tools%2C+workflow+engines%2C+and+SaaS+products.;Product-minded+engineering+from+frontend+to+infrastructure.)](https://git.io/typing-svg)
+
+![Profile Views](https://komarev.com/ghpvc/?username=priyanshjhaa&style=flat-square&color=0891b2)
+![Focus](https://img.shields.io/badge/focus-product_engineering-111827?style=flat-square)
+![Open To](https://img.shields.io/badge/open_to-internships_%26_roles-1d4ed8?style=flat-square)
+![Location](https://img.shields.io/badge/based_in-India-0f766e?style=flat-square)
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-111827?style=flat-square&logo=vercel&logoColor=white)](https://priyanshhjha.me)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/priyansh-jha-489966284/)
@@ -20,14 +25,14 @@
 - [About](#about)
 - [Selected Work](#selected-work)
 - [Technical Stack](#technical-stack)
-- [Engineering Focus](#engineering-focus)
+- [How I Work](#how-i-work)
 - [Contact](#contact)
 
 ---
 
 ## About
 
-I build full-stack products with attention to both user experience and system design. My work usually sits between product interfaces, APIs, data models, background jobs, and the operational details that make software dependable after launch.
+I build full-stack products with attention to both user experience and system design. My work sits between product interfaces, APIs, data models, background jobs, and the operational details that make software dependable after launch.
 
 Right now, I am especially interested in developer tools, workflow automation, SaaS platforms, and AI-assisted products where reliability matters as much as the interface.
 
@@ -47,46 +52,43 @@ Right now, I am especially interested in developer tools, workflow automation, S
 <table>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://github.com/priyanshjhaa/CodeMap">
-        <img src="assets/Screenshots/codemap.png" alt="CodeMap preview" />
-      </a>
-      <h3>CodeMap</h3>
-      <p>
-        A developer tool for understanding unfamiliar repositories through structure, relationships, and clearer navigation paths.
-      </p>
-      <p>
-        <img src="https://img.shields.io/badge/static_analysis-111827?style=flat-square" alt="Static analysis" />
-        <img src="https://img.shields.io/badge/dependency_mapping-1d4ed8?style=flat-square" alt="Dependency mapping" />
-        <img src="https://img.shields.io/badge/developer_experience-0891b2?style=flat-square" alt="Developer experience" />
-      </p>
+      <h3><a href="https://github.com/priyanshjhaa/CodeMap">CodeMap</a></h3>
+      <p>A developer tool for understanding unfamiliar repositories through structure, relationships, and clearer navigation paths.</p>
+      <p><strong>Problem:</strong> Developers spend too much time building a mental model before they can contribute to a codebase.</p>
+      <p><strong>Focus:</strong> static analysis, dependency mapping, repository intelligence, developer experience.</p>
+      <img src="https://img.shields.io/badge/category-developer_tool-111827?style=flat-square" alt="Developer tool" />
+      <img src="https://img.shields.io/badge/focus-codebase_understanding-1d4ed8?style=flat-square" alt="Codebase understanding" />
+      <img src="https://img.shields.io/badge/status-active-0891b2?style=flat-square" alt="Active" />
     </td>
     <td width="50%" valign="top">
-      <a href="https://github.com/priyanshjhaa/Execute">
-        <img src="assets/Screenshots/Execute.png" alt="Execute preview" />
-      </a>
-      <h3>Execute</h3>
-      <p>
-        A workflow execution system focused on reliable task routing, asynchronous processing, retries, webhooks, and observability.
-      </p>
-      <p>
-        <img src="https://img.shields.io/badge/workflow_engine-111827?style=flat-square" alt="Workflow engine" />
-        <img src="https://img.shields.io/badge/background_jobs-1d4ed8?style=flat-square" alt="Background jobs" />
-        <img src="https://img.shields.io/badge/observability-0891b2?style=flat-square" alt="Observability" />
-      </p>
+      <h3><a href="https://github.com/priyanshjhaa/Execute">Execute</a></h3>
+      <p>A workflow execution system focused on reliable task routing, asynchronous processing, retries, webhooks, and observability.</p>
+      <p><strong>Problem:</strong> Automation is useful only when the execution path is predictable, observable, and recoverable.</p>
+      <p><strong>Focus:</strong> workflow engines, queues, background jobs, retry logic, operational visibility.</p>
+      <img src="https://img.shields.io/badge/category-workflow_system-111827?style=flat-square" alt="Workflow system" />
+      <img src="https://img.shields.io/badge/focus-reliable_execution-1d4ed8?style=flat-square" alt="Reliable execution" />
+      <img src="https://img.shields.io/badge/status-active-0891b2?style=flat-square" alt="Active" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/priyanshjhaa/Axiom">Axiom</a></h3>
+      <p>A freelancer workspace for proposals, projects, invoices, and client operations.</p>
+      <p><strong>Focus:</strong> SaaS architecture, multi-tenant product flows, relational data modeling.</p>
+      <img src="https://img.shields.io/badge/category-SaaS-111827?style=flat-square" alt="SaaS" />
+      <img src="https://img.shields.io/badge/stack-Next.js-1d4ed8?style=flat-square" alt="Next.js" />
+      <img src="https://img.shields.io/badge/data-PostgreSQL-0891b2?style=flat-square" alt="PostgreSQL" />
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/priyanshjhaa/Cinematch25">Cinematch</a></h3>
+      <p>A movie discovery product shaped around mood-based browsing, favorites, and a polished exploration flow.</p>
+      <p><strong>Focus:</strong> frontend product experience, recommendation flow, state management.</p>
+      <img src="https://img.shields.io/badge/category-product_UX-111827?style=flat-square" alt="Product UX" />
+      <img src="https://img.shields.io/badge/stack-React-1d4ed8?style=flat-square" alt="React" />
+      <img src="https://img.shields.io/badge/backend-Firebase-0891b2?style=flat-square" alt="Firebase" />
     </td>
   </tr>
 </table>
-
-<details>
-<summary><strong>More projects</strong></summary>
-<br/>
-
-| Project | What it does | Technical focus |
-| :--- | :--- | :--- |
-| [Axiom](https://github.com/priyanshjhaa/Axiom) | Freelancer workspace for proposals, projects, invoices, and client operations. | Next.js, PostgreSQL, multi-tenant architecture |
-| [Cinematch](https://github.com/priyanshjhaa/Cinematch25) | Movie discovery experience shaped around mood-based browsing and favorites. | React, Firebase, product UX |
-
-</details>
 
 ---
 
@@ -115,11 +117,11 @@ Right now, I am especially interested in developer tools, workflow automation, S
 | Backend | Node.js, Express, REST APIs, authentication, webhooks, background jobs |
 | Data | PostgreSQL, Prisma, Supabase, relational modeling, multi-tenant patterns |
 | Infrastructure | Docker, AWS, Vercel, deployment workflows, environment configuration |
-| Product quality | Observability, failure handling, clear UX, maintainable architecture |
+| Product quality | Observability, failure handling, clear user flows, maintainable architecture |
 
 ---
 
-## Engineering Focus
+## How I Work
 
 | Principle | How I apply it |
 | :--- | :--- |
@@ -128,6 +130,15 @@ Right now, I am especially interested in developer tools, workflow automation, S
 | Reliable execution | Design retries, validation, queueing, and observability into the workflow. |
 | Practical AI | Use AI where it improves a product flow without making behavior unpredictable. |
 | Iterative shipping | Build, test with real constraints, and refine based on feedback. |
+
+```text
+product idea
+  -> define the workflow
+  -> model the data and API contracts
+  -> ship a usable version
+  -> observe failure paths
+  -> refine the product
+```
 
 ---
 
