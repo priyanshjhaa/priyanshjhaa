@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:06B6D4,45:7C3AED,100:EC4899&height=5&section=header" alt="" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:38BDF8,50:2563EB,100:4F46E5&height=5&section=header" alt="" />
 
 <div align="center">
 
@@ -10,20 +10,20 @@
 
 ### I turn ambitious product ideas into reliable, usable software.
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&duration=2600&pause=800&color=22D3EE&center=true&vCenter=true&repeat=true&width=820&height=45&lines=designing+the+interface+%E2%86%92+engineering+the+system;building+developer+tools+that+explain+themselves;making+AI+workflows+safe%2C+observable%2C+and+useful;shipping+0%E2%86%921+products+end+to+end)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&duration=2600&pause=800&color=38BDF8&center=true&vCenter=true&repeat=true&width=820&height=45&lines=designing+the+interface+%E2%86%92+engineering+the+system;building+developer+tools+that+explain+themselves;making+AI+workflows+safe%2C+observable%2C+and+useful;shipping+0%E2%86%921+products+end+to+end)](https://git.io/typing-svg)
 
 <p>
-  <a href="https://priyanshhjha.me"><img src="https://img.shields.io/badge/PORTFOLIO-06B6D4?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
-  <a href="https://www.linkedin.com/in/priyansh-jha-489966284/"><img src="https://img.shields.io/badge/LINKEDIN-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://x.com/PriyaanshhJhaa"><img src="https://img.shields.io/badge/BUILD_LOG-111827?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
-  <a href="mailto:Priyanshjhaa17@gmail.com"><img src="https://img.shields.io/badge/LET'S_TALK-EC4899?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://priyanshhjha.me"><img src="https://img.shields.io/badge/PORTFOLIO-0284C7?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/priyansh-jha-489966284/"><img src="https://img.shields.io/badge/LINKEDIN-2563EB?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://x.com/PriyaanshhJhaa"><img src="https://img.shields.io/badge/BUILD_LOG-1E293B?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
+  <a href="mailto:Priyanshjhaa17@gmail.com"><img src="https://img.shields.io/badge/LET'S_TALK-4F46E5?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
-![Status](https://img.shields.io/badge/●_STATUS-OPEN_TO_REMOTE_ROLES-10B981?style=flat-square)
-![Products](https://img.shields.io/badge/PRODUCTS_BUILT-5-06B6D4?style=flat-square)
-![Releases](https://img.shields.io/badge/LIVE_RELEASES-4-8B5CF6?style=flat-square)
-![Ownership](https://img.shields.io/badge/OWNERSHIP-END_TO_END-EC4899?style=flat-square)
-![Visitors](https://komarev.com/ghpvc/?username=priyanshjhaa&style=flat-square&color=F59E0B&label=PROFILE+VIEWS)
+![Status](https://img.shields.io/badge/●_STATUS-OPEN_TO_REMOTE_ROLES-0F766E?style=flat-square&labelColor=1E293B)
+![Products](https://img.shields.io/badge/PRODUCTS_BUILT-5-334155?style=flat-square&labelColor=1E293B)
+![Releases](https://img.shields.io/badge/LIVE_RELEASES-4-334155?style=flat-square&labelColor=1E293B)
+![Ownership](https://img.shields.io/badge/OWNERSHIP-END_TO_END-334155?style=flat-square&labelColor=1E293B)
+![Visitors](https://komarev.com/ghpvc/?username=priyanshjhaa&style=flat-square&color=334155&label=PROFILE+VIEWS)
 
 </div>
 
@@ -36,22 +36,22 @@ I work across the complete product surface: **figuring out the workflow, designi
 <table>
   <tr>
     <td width="25%" align="center">
-      <img src="https://img.shields.io/badge/01-PRODUCT-06B6D4?style=for-the-badge" alt="Product" />
+      <img src="https://img.shields.io/badge/01-PRODUCT-0284C7?style=for-the-badge&labelColor=1E293B" alt="Product" />
       <br><br>
       Turn an ambiguous problem into a focused product flow and a usable first release.
     </td>
     <td width="25%" align="center">
-      <img src="https://img.shields.io/badge/02-FRONTEND-8B5CF6?style=for-the-badge" alt="Frontend" />
+      <img src="https://img.shields.io/badge/02-FRONTEND-2563EB?style=for-the-badge&labelColor=1E293B" alt="Frontend" />
       <br><br>
       Build responsive interfaces, dashboards, visualizations, and interaction-heavy tools.
     </td>
     <td width="25%" align="center">
-      <img src="https://img.shields.io/badge/03-BACKEND-EC4899?style=for-the-badge" alt="Backend" />
+      <img src="https://img.shields.io/badge/03-BACKEND-4F46E5?style=for-the-badge&labelColor=1E293B" alt="Backend" />
       <br><br>
       Design APIs, auth, relational models, queues, webhooks, and background execution.
     </td>
     <td width="25%" align="center">
-      <img src="https://img.shields.io/badge/04-RELIABILITY-10B981?style=for-the-badge" alt="Reliability" />
+      <img src="https://img.shields.io/badge/04-RELIABILITY-0F766E?style=for-the-badge&labelColor=1E293B" alt="Reliability" />
       <br><br>
       Add validation, isolation, retries, observability, and deliberate state transitions.
     </td>
@@ -84,10 +84,10 @@ I work across the complete product surface: **figuring out the workflow, designi
       <p><strong>Engineering intelligence for understanding change impact before code ships.</strong></p>
       <p>Connects repository structure, architecture, history, and technical knowledge into evidence-backed impact reports and explorable system views.</p>
       <p>
-        <img src="https://img.shields.io/badge/Next.js-111827?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
-        <img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white" alt="Cloudflare" />
-        <img src="https://img.shields.io/badge/Drizzle-C5F74F?style=flat-square&logo=drizzle&logoColor=111827" alt="Drizzle" />
-        <img src="https://img.shields.io/badge/React_Flow-EC4899?style=flat-square&logo=react&logoColor=white" alt="React Flow" />
+        <img src="https://img.shields.io/badge/Next.js-1E293B?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
+        <img src="https://img.shields.io/badge/Cloudflare-1E293B?style=flat-square&logo=cloudflare&logoColor=F38020" alt="Cloudflare" />
+        <img src="https://img.shields.io/badge/Drizzle-1E293B?style=flat-square&logo=drizzle&logoColor=C5F74F" alt="Drizzle" />
+        <img src="https://img.shields.io/badge/React_Flow-1E293B?style=flat-square&logo=react&logoColor=61DAFB" alt="React Flow" />
       </p>
       <strong>Owned:</strong> product direction, workspace architecture, interaction design, authentication, data model, and quality checks.
     </td>
@@ -96,12 +96,12 @@ I work across the complete product surface: **figuring out the workflow, designi
       <p><strong>Import a repository, visualize its architecture, and query it with context.</strong></p>
       <p>A developer tool built around repository ingestion, structured indexing, and retrieval workflows that make unfamiliar codebases easier to understand.</p>
       <p>
-        <img src="https://img.shields.io/badge/Next.js-111827?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
-        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-        <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis" />
-        <img src="https://img.shields.io/badge/LLMs-7C3AED?style=flat-square&logo=openai&logoColor=white" alt="LLMs" />
+        <img src="https://img.shields.io/badge/Next.js-1E293B?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
+        <img src="https://img.shields.io/badge/PostgreSQL-1E293B?style=flat-square&logo=postgresql&logoColor=60A5FA" alt="PostgreSQL" />
+        <img src="https://img.shields.io/badge/Redis-1E293B?style=flat-square&logo=redis&logoColor=F87171" alt="Redis" />
+        <img src="https://img.shields.io/badge/LLMs-1E293B?style=flat-square&logo=openai&logoColor=A5B4FC" alt="LLMs" />
       </p>
-      <a href="https://code-map-web-sigma.vercel.app"><img src="https://img.shields.io/badge/LIVE_DEMO-06B6D4?style=flat-square&logo=vercel&logoColor=white" alt="Live demo" /></a>
+      <a href="https://code-map-web-sigma.vercel.app"><img src="https://img.shields.io/badge/LIVE_DEMO-2563EB?style=flat-square&logo=vercel&logoColor=white" alt="Live demo" /></a>
     </td>
   </tr>
   <tr>
@@ -110,23 +110,23 @@ I work across the complete product surface: **figuring out the workflow, designi
       <p><strong>An approval-gated agent for deterministic business workflows.</strong></p>
       <p>Turns natural-language requests into validated proposals, requires approval before mutations, and executes observable actions through strict workflows.</p>
       <p>
-        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-        <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white" alt="Supabase" />
-        <img src="https://img.shields.io/badge/Groq-F55036?style=flat-square&logo=groq&logoColor=white" alt="Groq" />
-        <img src="https://img.shields.io/badge/Resend-111827?style=flat-square&logo=resend&logoColor=white" alt="Resend" />
+        <img src="https://img.shields.io/badge/TypeScript-1E293B?style=flat-square&logo=typescript&logoColor=60A5FA" alt="TypeScript" />
+        <img src="https://img.shields.io/badge/Supabase-1E293B?style=flat-square&logo=supabase&logoColor=34D399" alt="Supabase" />
+        <img src="https://img.shields.io/badge/Groq-1E293B?style=flat-square&logo=groq&logoColor=FB923C" alt="Groq" />
+        <img src="https://img.shields.io/badge/Resend-1E293B?style=flat-square&logo=resend&logoColor=white" alt="Resend" />
       </p>
-      <a href="https://execute-web-i7u4.vercel.app"><img src="https://img.shields.io/badge/LIVE_DEMO-EC4899?style=flat-square&logo=vercel&logoColor=white" alt="Live demo" /></a>
+      <a href="https://execute-web-i7u4.vercel.app"><img src="https://img.shields.io/badge/LIVE_DEMO-2563EB?style=flat-square&logo=vercel&logoColor=white" alt="Live demo" /></a>
     </td>
     <td width="50%" valign="top">
       <h3>◆ <a href="https://github.com/priyanshjhaa/Axiom">Axiom</a></h3>
       <p><strong>A freelancer management SaaS with connected operational workflows.</strong></p>
       <p>Brings proposals, projects, invoices, and client operations into one product with a shared relational model and scalable APIs.</p>
       <p>
-        <img src="https://img.shields.io/badge/Next.js-111827?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
-        <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white" alt="Prisma" />
-        <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white" alt="Supabase" />
+        <img src="https://img.shields.io/badge/Next.js-1E293B?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
+        <img src="https://img.shields.io/badge/Prisma-1E293B?style=flat-square&logo=prisma&logoColor=A5B4FC" alt="Prisma" />
+        <img src="https://img.shields.io/badge/Supabase-1E293B?style=flat-square&logo=supabase&logoColor=34D399" alt="Supabase" />
       </p>
-      <a href="https://axiom-nu-six.vercel.app"><img src="https://img.shields.io/badge/LIVE_DEMO-8B5CF6?style=flat-square&logo=vercel&logoColor=white" alt="Live demo" /></a>
+      <a href="https://axiom-nu-six.vercel.app"><img src="https://img.shields.io/badge/LIVE_DEMO-2563EB?style=flat-square&logo=vercel&logoColor=white" alt="Live demo" /></a>
     </td>
   </tr>
 </table>
@@ -137,10 +137,10 @@ I work across the complete product surface: **figuring out the workflow, designi
 
 **[Cinematch](https://github.com/priyanshjhaa/Cinematch25)** is a content-discovery product with recommendation flows, external API integrations, authentication, and saved content.
 
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=111827)
-![TMDB](https://img.shields.io/badge/TMDB_API-01B4E4?style=flat-square&logo=themoviedatabase&logoColor=white)
-[![Live](https://img.shields.io/badge/LIVE-10B981?style=flat-square&logo=vercel&logoColor=white)](https://cinematch25.vercel.app)
+![React](https://img.shields.io/badge/React-1E293B?style=flat-square&logo=react&logoColor=61DAFB)
+![Firebase](https://img.shields.io/badge/Firebase-1E293B?style=flat-square&logo=firebase&logoColor=FBBF24)
+![TMDB](https://img.shields.io/badge/TMDB_API-1E293B?style=flat-square&logo=themoviedatabase&logoColor=38BDF8)
+[![Live](https://img.shields.io/badge/LIVE-2563EB?style=flat-square&logo=vercel&logoColor=white)](https://cinematch25.vercel.app)
 
 </details>
 
@@ -152,11 +152,11 @@ These are systems I have actually designed and implemented, not entries copied f
 
 | Signal | What I built |
 | :--- | :--- |
-| ![Agent safety](https://img.shields.io/badge/AGENT-SAFETY-EC4899?style=flat-square) | Approval-gated actions with persisted, expiring, and idempotent proposals |
-| ![Multi tenancy](https://img.shields.io/badge/MULTI--TENANT-ISOLATION-8B5CF6?style=flat-square) | Tenant boundaries across tools, execution actions, integrations, and failure findings |
-| ![AI controls](https://img.shields.io/badge/AI-PROVIDER_CONTROLS-F59E0B?style=flat-square) | Usage accounting, atomic limits, provider controls, and prompt-injection defenses |
-| ![Code intelligence](https://img.shields.io/badge/CODE-INTELLIGENCE-06B6D4?style=flat-square) | Semantic repository indexing and evidence-backed software impact reports |
-| ![Execution](https://img.shields.io/badge/WORKFLOWS-OBSERVABLE-10B981?style=flat-square) | Validated state transitions, queues, retries, and visible execution paths |
+| ![Agent safety](https://img.shields.io/badge/AGENT-SAFETY-334155?style=flat-square) | Approval-gated actions with persisted, expiring, and idempotent proposals |
+| ![Multi tenancy](https://img.shields.io/badge/MULTI--TENANT-ISOLATION-334155?style=flat-square) | Tenant boundaries across tools, execution actions, integrations, and failure findings |
+| ![AI controls](https://img.shields.io/badge/AI-PROVIDER_CONTROLS-334155?style=flat-square) | Usage accounting, atomic limits, provider controls, and prompt-injection defenses |
+| ![Code intelligence](https://img.shields.io/badge/CODE-INTELLIGENCE-334155?style=flat-square) | Semantic repository indexing and evidence-backed software impact reports |
+| ![Execution](https://img.shields.io/badge/WORKFLOWS-OBSERVABLE-334155?style=flat-square) | Validated state transitions, queues, retries, and visible execution paths |
 
 ---
 
@@ -168,10 +168,10 @@ These are systems I have actually designed and implemented, not entries copied f
 
 <br>
 
-![Product Engineering](https://img.shields.io/badge/PRODUCT_ENGINEERING-06B6D4?style=for-the-badge)
-![Developer Tools](https://img.shields.io/badge/DEVELOPER_TOOLS-7C3AED?style=for-the-badge)
-![Workflow Systems](https://img.shields.io/badge/WORKFLOW_SYSTEMS-EC4899?style=for-the-badge)
-![AI Products](https://img.shields.io/badge/AI_PRODUCTS-F59E0B?style=for-the-badge)
+![Product Engineering](https://img.shields.io/badge/PRODUCT_ENGINEERING-0284C7?style=for-the-badge)
+![Developer Tools](https://img.shields.io/badge/DEVELOPER_TOOLS-2563EB?style=for-the-badge)
+![Workflow Systems](https://img.shields.io/badge/WORKFLOW_SYSTEMS-4F46E5?style=for-the-badge)
+![AI Products](https://img.shields.io/badge/AI_PRODUCTS-0F766E?style=for-the-badge)
 
 </div>
 
@@ -187,7 +187,7 @@ product_mode:   "own the problem → ship the system → learn from usage"
 
 ## `~/activity --live`
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=priyanshjhaa&bg_color=0D1117&color=22D3EE&line=8B5CF6&point=EC4899&area=true&hide_border=true&custom_title=Contribution%20Signal" alt="Priyansh's contribution graph" />
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=priyanshjhaa&bg_color=0D1117&color=94A3B8&line=4F46E5&point=38BDF8&area=true&hide_border=true&custom_title=Contribution%20Signal" alt="Priyansh's contribution graph" />
 
 ---
 
@@ -197,7 +197,7 @@ product_mode:   "own the problem → ship the system → learn from usage"
 
 I am open to **remote product engineering roles, internships, early-stage teams, and thoughtful collaborations.**
 
-[![Start a conversation](https://img.shields.io/badge/START_A_CONVERSATION-111827?style=for-the-badge&logo=minutemailer&logoColor=22D3EE)](mailto:Priyanshjhaa17@gmail.com)
+[![Start a conversation](https://img.shields.io/badge/START_A_CONVERSATION-1E293B?style=for-the-badge&logo=minutemailer&logoColor=38BDF8)](mailto:Priyanshjhaa17@gmail.com)
 
 <br><br>
 
@@ -207,4 +207,4 @@ I am open to **remote product engineering roles, internships, early-stage teams,
 
 <br>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:EC4899,55:7C3AED,100:06B6D4&height=5&section=footer" alt="" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:4F46E5,50:2563EB,100:38BDF8&height=5&section=footer" alt="" />
