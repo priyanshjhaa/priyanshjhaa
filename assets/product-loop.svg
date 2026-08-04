@@ -1,0 +1,74 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="768" height="161" viewBox="0 0 1000 210" role="img" aria-labelledby="title description">
+  <title id="title">Priyansh Jha's animated product engineering loop</title>
+  <desc id="description">An animated pipeline moving through discover, design, build, ship, and learn.</desc>
+
+  <defs>
+    <linearGradient id="panel" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#11152b"/>
+      <stop offset="0.55" stop-color="#17172f"/>
+      <stop offset="1" stop-color="#121b2d"/>
+    </linearGradient>
+    <linearGradient id="signal" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#56d6c9"/>
+      <stop offset="0.48" stop-color="#a78bfa"/>
+      <stop offset="1" stop-color="#ff7a90"/>
+    </linearGradient>
+    <filter id="glow" x="-100%" y="-100%" width="300%" height="300%">
+      <feGaussianBlur stdDeviation="4" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <rect x="1" y="1" width="998" height="208" rx="18" fill="url(#panel)" stroke="#2c3150"/>
+  <path d="M28 48H972" stroke="#2b304d"/>
+
+  <g font-family="'JetBrains Mono', 'SFMono-Regular', Consolas, monospace">
+    <text x="30" y="31" fill="#cbd5e1" font-size="14" font-weight="600">product_loop.run()</text>
+    <circle cx="846" cy="26" r="5" fill="#56d6c9">
+      <animate attributeName="opacity" values="1;.3;1" dur="1.6s" repeatCount="indefinite"/>
+    </circle>
+    <text x="860" y="31" fill="#8da399" font-size="12">SYSTEM HEALTHY</text>
+
+    <path d="M110 110H870" fill="none" stroke="#343957" stroke-width="3" stroke-linecap="round"/>
+    <path d="M110 110H870" fill="none" stroke="url(#signal)" stroke-width="1.5" stroke-linecap="round" opacity=".65">
+      <animate attributeName="stroke-dasharray" values="1 18;10 9;1 18" dur="4s" repeatCount="indefinite"/>
+    </path>
+
+    <g fill="#171a33" stroke-width="2">
+      <circle cx="110" cy="110" r="12" stroke="#56d6c9"/>
+      <circle cx="300" cy="110" r="12" stroke="#75c9e8"/>
+      <circle cx="490" cy="110" r="12" stroke="#a78bfa"/>
+      <circle cx="680" cy="110" r="12" stroke="#ffb86b"/>
+      <circle cx="870" cy="110" r="12" stroke="#ff7a90"/>
+    </g>
+
+    <g fill="#e2e8f0" font-size="13" text-anchor="middle">
+      <text x="110" y="83">DISCOVER</text>
+      <text x="300" y="83">DESIGN</text>
+      <text x="490" y="83">BUILD</text>
+      <text x="680" y="83">SHIP</text>
+      <text x="870" y="83">LEARN</text>
+    </g>
+
+    <g fill="#8188a6" font-size="10" text-anchor="middle">
+      <text x="110" y="141">user problem</text>
+      <text x="300" y="141">product flow</text>
+      <text x="490" y="141">working system</text>
+      <text x="680" y="141">real release</text>
+      <text x="870" y="141">better signal</text>
+    </g>
+
+    <circle r="5" fill="#f9e2af" filter="url(#glow)">
+      <animateMotion path="M110 110H870" dur="5s" repeatCount="indefinite"/>
+    </circle>
+    <circle r="3.5" fill="#56d6c9" filter="url(#glow)" opacity=".9">
+      <animateMotion path="M110 110H870" dur="5s" begin="-2.5s" repeatCount="indefinite"/>
+    </circle>
+
+    <text x="30" y="184" fill="#737b9a" font-size="11">INPUT  // ambiguous product problem</text>
+    <text x="970" y="184" fill="#a8a2c7" font-size="11" text-anchor="end">OUTPUT // useful, reliable software</text>
+  </g>
+</svg>
