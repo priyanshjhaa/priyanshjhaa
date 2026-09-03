@@ -1,212 +1,144 @@
 <div align="center">
 
-<samp>PRODUCT ENGINEER // SYSTEM BUILDER // 0→1 SHIPPER</samp>
+<img width="100%" src="./assets/launch-console.svg" alt="Animated product builder launch console for Priyansh Jha" />
 
-# Priyansh Jha
+<br>
 
-### I turn ambitious product ideas into reliable software people can use.
+<a href="https://priyanshhjha.me"><img src="https://img.shields.io/badge/EXPLORE_MY_WORK-111827?style=for-the-badge&logo=vercel&logoColor=5EEAD4" alt="Portfolio" /></a>
+<a href="mailto:Priyanshjhaa17@gmail.com"><img src="https://img.shields.io/badge/BUILD_WITH_ME-111827?style=for-the-badge&logo=minutemailer&logoColor=FDA4AF" alt="Email" /></a>
+<a href="https://www.linkedin.com/in/priyansh-jha-489966284/"><img src="https://img.shields.io/badge/LINKEDIN-111827?style=for-the-badge&logo=linkedin&logoColor=C4B5FD" alt="LinkedIn" /></a>
+<a href="https://x.com/PriyaanshhJhaa"><img src="https://img.shields.io/badge/BUILD_LOG-111827?style=for-the-badge&logo=x&logoColor=FDE68A" alt="X" /></a>
 
-<img width="100%" src="./assets/product-loop.svg" alt="Animated product engineering loop: discover, design, build, ship, and learn" />
-
-<p>
-  <a href="https://priyanshhjha.me"><img src="https://img.shields.io/badge/Portfolio-171A33?style=for-the-badge&logo=vercel&logoColor=56D6C9" alt="Portfolio" /></a>
-  <a href="https://www.linkedin.com/in/priyansh-jha-489966284/"><img src="https://img.shields.io/badge/LinkedIn-171A33?style=for-the-badge&logo=linkedin&logoColor=A78BFA" alt="LinkedIn" /></a>
-  <a href="https://x.com/PriyaanshhJhaa"><img src="https://img.shields.io/badge/Build_Log-171A33?style=for-the-badge&logo=x&logoColor=F9E2AF" alt="X" /></a>
-  <a href="mailto:Priyanshjhaa17@gmail.com"><img src="https://img.shields.io/badge/Email-171A33?style=for-the-badge&logo=gmail&logoColor=FF7A90" alt="Email" /></a>
-</p>
-
-![Availability](https://img.shields.io/badge/STATUS-OPEN_TO_REMOTE_ROLES-237C73?style=flat-square&labelColor=171A33)
-![Products](https://img.shields.io/badge/PRODUCTS-5_SHIPPED-2F748A?style=flat-square&labelColor=171A33)
-![Releases](https://img.shields.io/badge/RELEASES-4_LIVE-5B4DB2?style=flat-square&labelColor=171A33)
-![Ownership](https://img.shields.io/badge/OWNERSHIP-END_TO_END-9F4A62?style=flat-square&labelColor=171A33)
-![Views](https://komarev.com/ghpvc/?username=priyanshjhaa&style=flat-square&color=44475F&label=PROFILE+VIEWS)
+![Open to work](https://img.shields.io/badge/OPEN_TO-REMOTE_PRODUCT_ROLES-0F766E?style=flat-square)
+![Location](https://img.shields.io/badge/BASED_IN-INDIA-4338CA?style=flat-square)
+![Products](https://img.shields.io/badge/SHIPPED-5_PRODUCTS-B45369?style=flat-square)
+![Profile views](https://komarev.com/ghpvc/?username=priyanshjhaa&style=flat-square&color=A16207&label=VISITORS)
 
 </div>
 
 ---
 
-## `01 / product-to-production`
+## BUILDER MODE: ON
 
-I work where **product judgment, interface design, and system engineering** overlap. Give me a loosely defined problem and I can shape the workflow, build the product surface, engineer the backend, and take it through deployment.
+I am a full-stack product engineer who moves comfortably between **what should we build?** and **how do we make it dependable?** I turn fuzzy ideas into clear user flows, working interfaces, thoughtful data models, reliable execution paths, and deployed products.
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>Product + Interface</h3>
-      <p>Turn ambiguity into a focused workflow, then build responsive interfaces, dashboards, architecture views, and interaction-heavy tools.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Product_Strategy-171A33?style=flat-square" alt="Product strategy" />
-        <img src="https://img.shields.io/badge/UX_Flows-171A33?style=flat-square" alt="UX flows" />
-        <img src="https://img.shields.io/badge/Frontend_Systems-171A33?style=flat-square" alt="Frontend systems" />
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>Backend + Data</h3>
-      <p>Design APIs, authentication, relational models, tenant boundaries, queues, webhooks, and background execution around clear contracts.</p>
-      <p>
-        <img src="https://img.shields.io/badge/API_Design-171A33?style=flat-square" alt="API design" />
-        <img src="https://img.shields.io/badge/Data_Modeling-171A33?style=flat-square" alt="Data modeling" />
-        <img src="https://img.shields.io/badge/Async_Jobs-171A33?style=flat-square" alt="Async jobs" />
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>AI + Developer Tools</h3>
-      <p>Build repository intelligence, retrieval pipelines, agent workflows, and AI features with a specific product job rather than decorative intelligence.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Agent_Workflows-171A33?style=flat-square" alt="Agent workflows" />
-        <img src="https://img.shields.io/badge/RAG-171A33?style=flat-square" alt="RAG" />
-        <img src="https://img.shields.io/badge/Code_Intelligence-171A33?style=flat-square" alt="Code intelligence" />
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>Reliability + Delivery</h3>
-      <p>Make critical flows predictable with validation, approvals, isolation, idempotency, retries, observability, and deliberate state transitions.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Safe_Execution-171A33?style=flat-square" alt="Safe execution" />
-        <img src="https://img.shields.io/badge/Observability-171A33?style=flat-square" alt="Observability" />
-        <img src="https://img.shields.io/badge/Deployment-171A33?style=flat-square" alt="Deployment" />
-      </p>
-    </td>
-  </tr>
-</table>
+> The job is not finished when the feature works. It is finished when the product makes sense, survives failure, and is useful to someone.
+
+![Product thinking](https://img.shields.io/badge/PRODUCT_THINKING-0F766E?style=for-the-badge&logo=linear&logoColor=white)
+![Interface engineering](https://img.shields.io/badge/INTERFACE_ENGINEERING-0369A1?style=for-the-badge&logo=react&logoColor=white)
+![Backend systems](https://img.shields.io/badge/BACKEND_SYSTEMS-4338CA?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![AI workflows](https://img.shields.io/badge/AI_WORKFLOWS-7E22CE?style=for-the-badge&logo=openai&logoColor=white)
+![Reliable delivery](https://img.shields.io/badge/RELIABLE_DELIVERY-B45369?style=for-the-badge&logo=githubactions&logoColor=white)
+
+### What I can own
+
+- **Product definition:** turn an ambiguous problem into a focused workflow and a useful first release.
+- **Full-stack implementation:** build responsive product surfaces, APIs, authentication, relational data models, and integrations.
+- **Complex execution:** design queues, background jobs, webhooks, retries, idempotency, and observable state transitions.
+- **Practical AI:** ship agents, retrieval pipelines, and AI-assisted flows with approvals, limits, isolation, and clear UX.
+- **Production delivery:** deploy, inspect failure paths, gather real signals, and refine the system with intent.
 
 ---
 
-## `02 / selected systems`
+## SHIPPING LOG
 
-<table>
-  <tr>
-    <td colspan="2" valign="top">
-      <h3>Atlas · Engineering intelligence before code ships</h3>
-      <p>Connects repository structure, architecture, history, and technical knowledge into evidence-backed impact reports and explorable system views.</p>
-      <p><strong>I owned:</strong> product direction, interaction design, workspace architecture, authentication, data modeling, and quality checks.</p>
-      <p>
-        <a href="https://github.com/priyanshjhaa/Atlas"><img src="https://img.shields.io/badge/View_Source-11152B?style=flat-square&logo=github&logoColor=A78BFA" alt="Atlas source" /></a>
-        <img src="https://img.shields.io/badge/Next.js-171A33?style=flat-square&logo=nextdotjs&logoColor=E2E8F0" alt="Next.js" />
-        <img src="https://img.shields.io/badge/Cloudflare-171A33?style=flat-square&logo=cloudflare&logoColor=FFB86B" alt="Cloudflare" />
-        <img src="https://img.shields.io/badge/Drizzle-171A33?style=flat-square&logo=drizzle&logoColor=F9E2AF" alt="Drizzle" />
-        <img src="https://img.shields.io/badge/React_Flow-171A33?style=flat-square&logo=react&logoColor=56D6C9" alt="React Flow" />
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>CodeMap</h3>
-      <p><strong>Understand an unfamiliar codebase faster.</strong></p>
-      <p>Imports repositories, builds structured and semantic indexes, visualizes architecture, and answers questions with code-aware retrieval.</p>
-      <p>
-        <a href="https://code-map-web-sigma.vercel.app"><img src="https://img.shields.io/badge/Live-237C73?style=flat-square&logo=vercel&logoColor=white" alt="CodeMap live" /></a>
-        <a href="https://github.com/priyanshjhaa/CodeMap"><img src="https://img.shields.io/badge/Source-171A33?style=flat-square&logo=github&logoColor=A78BFA" alt="CodeMap source" /></a>
-        <img src="https://img.shields.io/badge/PostgreSQL-171A33?style=flat-square&logo=postgresql&logoColor=93C5FD" alt="PostgreSQL" />
-        <img src="https://img.shields.io/badge/Redis-171A33?style=flat-square&logo=redis&logoColor=FF7A90" alt="Redis" />
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>Execute</h3>
-      <p><strong>AI-assisted workflows without invisible mutations.</strong></p>
-      <p>Turns natural-language requests into validated proposals, requires explicit approval, and executes observable actions through deterministic workflows.</p>
-      <p>
-        <a href="https://execute-web-i7u4.vercel.app"><img src="https://img.shields.io/badge/Live-9F4A62?style=flat-square&logo=vercel&logoColor=white" alt="Execute live" /></a>
-        <a href="https://github.com/priyanshjhaa/Execute"><img src="https://img.shields.io/badge/Source-171A33?style=flat-square&logo=github&logoColor=A78BFA" alt="Execute source" /></a>
-        <img src="https://img.shields.io/badge/Supabase-171A33?style=flat-square&logo=supabase&logoColor=56D6C9" alt="Supabase" />
-        <img src="https://img.shields.io/badge/Groq-171A33?style=flat-square&logo=groq&logoColor=FFB86B" alt="Groq" />
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>Axiom</h3>
-      <p>A freelancer operations SaaS connecting proposals, projects, invoices, clients, and a shared relational data model.</p>
-      <p>
-        <a href="https://axiom-nu-six.vercel.app"><img src="https://img.shields.io/badge/Live-8A5A2B?style=flat-square&logo=vercel&logoColor=white" alt="Axiom live" /></a>
-        <a href="https://github.com/priyanshjhaa/Axiom"><img src="https://img.shields.io/badge/Source-171A33?style=flat-square&logo=github&logoColor=A78BFA" alt="Axiom source" /></a>
-        <img src="https://img.shields.io/badge/Prisma-171A33?style=flat-square&logo=prisma&logoColor=E2E8F0" alt="Prisma" />
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>Cinematch</h3>
-      <p>A content-discovery product with recommendation flows, external APIs, authentication, favorites, and saved content.</p>
-      <p>
-        <a href="https://cinematch25.vercel.app"><img src="https://img.shields.io/badge/Live-5B4DB2?style=flat-square&logo=vercel&logoColor=white" alt="Cinematch live" /></a>
-        <a href="https://github.com/priyanshjhaa/Cinematch25"><img src="https://img.shields.io/badge/Source-171A33?style=flat-square&logo=github&logoColor=A78BFA" alt="Cinematch source" /></a>
-        <img src="https://img.shields.io/badge/Firebase-171A33?style=flat-square&logo=firebase&logoColor=F9E2AF" alt="Firebase" />
-      </p>
-    </td>
-  </tr>
-</table>
+### `ATLAS` / Engineering intelligence
+
+**Know what a software change affects before it ships.** Atlas connects code structure, architecture, history, and technical knowledge to create evidence-backed impact reports and explorable system views.
+
+![Product direction](https://img.shields.io/badge/OWNED-PRODUCT_DIRECTION-0F766E?style=flat-square)
+![Architecture](https://img.shields.io/badge/OWNED-WORKSPACE_ARCHITECTURE-4338CA?style=flat-square)
+![Quality](https://img.shields.io/badge/OWNED-AUTH_%2B_QUALITY-B45369?style=flat-square)
+[![Source](https://img.shields.io/badge/SOURCE-GITHUB-111827?style=flat-square&logo=github&logoColor=C4B5FD)](https://github.com/priyanshjhaa/Atlas)
+
+`Next.js` `Cloudflare` `Drizzle` `Better Auth` `React Flow`
 
 ---
 
-## `03 / engineering receipts`
+### `CODEMAP` / Repository intelligence
 
-<table>
-  <tr>
-    <td><img src="https://img.shields.io/badge/01-APPROVAL_GATES-237C73?style=flat-square&labelColor=11152B" alt="Approval gates" /></td>
-    <td>Persisted, expiring, and idempotent action proposals before agent mutations.</td>
-  </tr>
-  <tr>
-    <td><img src="https://img.shields.io/badge/02-TENANT_ISOLATION-5B4DB2?style=flat-square&labelColor=11152B" alt="Tenant isolation" /></td>
-    <td>Boundaries across agent tools, execution actions, integrations, and failure findings.</td>
-  </tr>
-  <tr>
-    <td><img src="https://img.shields.io/badge/03-AI_CONTROLS-6D4DC1?style=flat-square&labelColor=11152B" alt="AI controls" /></td>
-    <td>Usage accounting, atomic limits, provider controls, and prompt-injection defenses.</td>
-  </tr>
-  <tr>
-    <td><img src="https://img.shields.io/badge/04-CODE_INTELLIGENCE-2F748A?style=flat-square&labelColor=11152B" alt="Code intelligence" /></td>
-    <td>Semantic repository indexing and evidence-backed software impact analysis.</td>
-  </tr>
-  <tr>
-    <td><img src="https://img.shields.io/badge/05-OBSERVABLE_EXECUTION-2F8066?style=flat-square&labelColor=11152B" alt="Observable execution" /></td>
-    <td>Validated transitions, queues, retries, and visible workflow state.</td>
-  </tr>
-</table>
+**Make an unfamiliar codebase understandable.** CodeMap imports repositories, creates structured and semantic indexes, visualizes architecture, and supports code-aware retrieval across large systems.
+
+![Repository ingestion](https://img.shields.io/badge/BUILT-REPOSITORY_INGESTION-0369A1?style=flat-square)
+![Semantic indexing](https://img.shields.io/badge/BUILT-SEMANTIC_INDEXING-7E22CE?style=flat-square)
+![Architecture views](https://img.shields.io/badge/BUILT-ARCHITECTURE_VIEWS-0F766E?style=flat-square)
+[![Live](https://img.shields.io/badge/OPEN-LIVE_PRODUCT-B45369?style=flat-square&logo=vercel&logoColor=white)](https://code-map-web-sigma.vercel.app)
+[![Source](https://img.shields.io/badge/SOURCE-GITHUB-111827?style=flat-square&logo=github&logoColor=C4B5FD)](https://github.com/priyanshjhaa/CodeMap)
+
+`Next.js` `Node.js` `PostgreSQL` `Redis` `LLMs`
 
 ---
 
-## `04 / working set`
+### `EXECUTE` / Safe agent workflows
+
+**Use natural language without surrendering control.** Execute converts requests into validated proposals, requires explicit approval before mutations, and routes approved work through deterministic, observable execution.
+
+![Approval gated](https://img.shields.io/badge/BUILT-APPROVAL_GATES-B45369?style=flat-square)
+![Tenant isolation](https://img.shields.io/badge/BUILT-TENANT_ISOLATION-4338CA?style=flat-square)
+![Idempotent actions](https://img.shields.io/badge/BUILT-IDEMPOTENT_ACTIONS-0F766E?style=flat-square)
+[![Live](https://img.shields.io/badge/OPEN-LIVE_PRODUCT-7E22CE?style=flat-square&logo=vercel&logoColor=white)](https://execute-web-i7u4.vercel.app)
+[![Source](https://img.shields.io/badge/SOURCE-GITHUB-111827?style=flat-square&logo=github&logoColor=C4B5FD)](https://github.com/priyanshjhaa/Execute)
+
+`Next.js` `TypeScript` `Supabase` `Drizzle` `Groq` `Resend`
+
+<details>
+<summary><strong>More shipped products</strong></summary>
+<br>
+
+**Axiom** is a freelancer operations SaaS connecting proposals, projects, invoices, clients, APIs, and one shared relational model.
+
+[![Axiom live](https://img.shields.io/badge/AXIOM-LIVE-A16207?style=flat-square&logo=vercel&logoColor=white)](https://axiom-nu-six.vercel.app)
+[![Axiom source](https://img.shields.io/badge/AXIOM-SOURCE-111827?style=flat-square&logo=github&logoColor=FDE68A)](https://github.com/priyanshjhaa/Axiom)
+
+**Cinematch** is an API-driven content discovery product with recommendation flows, authentication, favorites, and saved content.
+
+[![Cinematch live](https://img.shields.io/badge/CINEMATCH-LIVE-B45369?style=flat-square&logo=vercel&logoColor=white)](https://cinematch25.vercel.app)
+[![Cinematch source](https://img.shields.io/badge/CINEMATCH-SOURCE-111827?style=flat-square&logo=github&logoColor=FDA4AF)](https://github.com/priyanshjhaa/Cinematch25)
+
+</details>
+
+---
+
+## PRODUCT ENGINEERING, WITH RECEIPTS
+
+```diff
++ approval-gated agent actions with persisted and expiring proposals
++ tenant isolation across tools, integrations, execution, and failures
++ semantic repository indexing and code-aware retrieval pipelines
++ provider controls, usage accounting, atomic limits, and AI safeguards
++ observable workflows with queues, retries, and deliberate transitions
++ product ownership from interaction design to deployed infrastructure
+```
+
+---
+
+## THE WORKBENCH
 
 <div align="center">
 
 [![Technology stack](https://skillicons.dev/icons?i=ts,js,nextjs,react,nodejs,express,postgres,redis,prisma,supabase,docker,aws,cloudflare,vercel,git,githubactions&perline=8&theme=dark)](https://skillicons.dev)
 
-<br>
+<br><br>
 
-![Product Engineering](https://img.shields.io/badge/PRODUCT_ENGINEERING-171A33?style=for-the-badge&logo=linear&logoColor=56D6C9)
-![Developer Tools](https://img.shields.io/badge/DEVELOPER_TOOLS-171A33?style=for-the-badge&logo=github&logoColor=A78BFA)
-![Workflow Systems](https://img.shields.io/badge/WORKFLOW_SYSTEMS-171A33?style=for-the-badge&logo=buffer&logoColor=FF7A90)
-![AI Products](https://img.shields.io/badge/AI_PRODUCTS-171A33?style=for-the-badge&logo=openai&logoColor=F9E2AF)
+![Frontend](https://img.shields.io/badge/FRONTEND-React_%7C_Next.js_%7C_TypeScript-0369A1?style=flat-square&labelColor=111827)
+![Backend](https://img.shields.io/badge/BACKEND-Node.js_%7C_APIs_%7C_Jobs-4338CA?style=flat-square&labelColor=111827)
+![Data](https://img.shields.io/badge/DATA-Postgres_%7C_Redis_%7C_ORMs-0F766E?style=flat-square&labelColor=111827)
+![Infra](https://img.shields.io/badge/INFRA-Docker_%7C_AWS_%7C_Cloudflare-A16207?style=flat-square&labelColor=111827)
 
 </div>
-
-```yaml
-interface:      TypeScript · React · Next.js · Tailwind CSS · React Flow
-system:         Node.js · REST APIs · Webhooks · Queues · Background Jobs
-data:           PostgreSQL · Redis · Prisma · Drizzle · Supabase
-infrastructure: Docker · AWS · Cloudflare · Vercel · GitHub Actions
-default_mode:   understand the problem → ship a useful system → refine with evidence
-```
-
----
-
-## `05 / live signal`
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=priyanshjhaa&bg_color=11152B&color=A8A2C7&line=FF7A90&point=56D6C9&area=true&area_color=5B4DB2&hide_border=true&custom_title=Contribution%20Signal" alt="Priyansh's contribution activity" />
 
 ---
 
 <div align="center">
 
-### Have a product that needs thoughtful engineering and decisive execution?
+### Have an ambitious product problem?
 
-I am open to **remote product engineering roles, internships, early-stage teams, and useful collaborations.**
+I am open to remote product engineering roles, internships, early-stage teams, and serious building with curious people.
 
-[![Start a conversation](https://img.shields.io/badge/START_A_CONVERSATION-171A33?style=for-the-badge&logo=minutemailer&logoColor=56D6C9)](mailto:Priyanshjhaa17@gmail.com)
+<a href="mailto:Priyanshjhaa17@gmail.com"><img src="https://img.shields.io/badge/START_A_CONVERSATION-FDA4AF?style=for-the-badge&logo=gmail&logoColor=111827" alt="Start a conversation" /></a>
 
 <br><br>
 
-<samp>product thinking · engineering discipline · shipped outcomes</samp>
+<samp>MAKE IT CLEAR. MAKE IT WORK. MAKE IT MATTER.</samp>
 
 </div>
