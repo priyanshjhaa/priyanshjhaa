@@ -51,13 +51,13 @@
 
     <g font-size="17" font-weight="600">
       <text x="47" y="235" fill="#5eead4">DEVELOPER TOOLS
-        <animate attributeName="opacity" values="1;1;0;0;0;1" keyTimes="0;.26;.33;.87;.94;1" dur="7.5s" repeatCount="indefinite"/>
+        <animate attributeName="opacity" values="1;0;0;1" keyTimes="0;.333333;.666667;1" calcMode="discrete" dur="9s" repeatCount="indefinite"/>
       </text>
       <text x="47" y="235" fill="#c4b5fd" opacity="0">AI WORKFLOW SYSTEMS
-        <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;.27;.34;.59;.66;1" dur="7.5s" repeatCount="indefinite"/>
+        <animate attributeName="opacity" values="0;1;0;0" keyTimes="0;.333333;.666667;1" calcMode="discrete" dur="9s" repeatCount="indefinite"/>
       </text>
       <text x="47" y="235" fill="#fda4af" opacity="0">FULL-STACK SaaS
-        <animate attributeName="opacity" values="0;0;0;1;1;0" keyTimes="0;.6;.66;.67;.92;1" dur="7.5s" repeatCount="indefinite"/>
+        <animate attributeName="opacity" values="0;0;1;0" keyTimes="0;.333333;.666667;1" calcMode="discrete" dur="9s" repeatCount="indefinite"/>
       </text>
     </g>
     <rect x="45" y="253" width="386" height="5" rx="2.5" fill="#242b43"/>

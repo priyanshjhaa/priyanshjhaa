@@ -20,6 +20,8 @@
 
 ## BUILDER MODE: ON
 
+<img width="600" src="./assets/builder-badges.svg" alt="Product builder: design with intent, build with care, ship and learn" />
+
 I am a full-stack product engineer who moves comfortably between **what should we build?** and **how do we make it dependable?** I turn fuzzy ideas into clear user flows, working interfaces, thoughtful data models, reliable execution paths, and deployed products.
 
 > The job is not finished when the feature works. It is finished when the product makes sense, survives failure, and is useful to someone.
@@ -51,7 +53,11 @@ I am a full-stack product engineer who moves comfortably between **what should w
 ![Quality](https://img.shields.io/badge/OWNED-AUTH_%2B_QUALITY-B45369?style=flat-square)
 [![Source](https://img.shields.io/badge/SOURCE-GITHUB-111827?style=flat-square&logo=github&logoColor=C4B5FD)](https://github.com/priyanshjhaa/Atlas)
 
-`Next.js` `Cloudflare` `Drizzle` `Better Auth` `React Flow`
+![Next.js](https://img.shields.io/badge/Next.js-18181B?style=flat&logo=nextdotjs&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-C2410C?style=flat&logo=cloudflare&logoColor=white)
+![Drizzle](https://img.shields.io/badge/Drizzle-3F6212?style=flat&logo=drizzle&logoColor=white)
+![Better Auth](https://img.shields.io/badge/Better_Auth-4338CA?style=flat)
+![React Flow](https://img.shields.io/badge/React_Flow-0369A1?style=flat&logo=react&logoColor=white)
 
 ---
 
@@ -65,7 +71,11 @@ I am a full-stack product engineer who moves comfortably between **what should w
 [![Live](https://img.shields.io/badge/OPEN-LIVE_PRODUCT-B45369?style=flat-square&logo=vercel&logoColor=white)](https://code-map-web-sigma.vercel.app)
 [![Source](https://img.shields.io/badge/SOURCE-GITHUB-111827?style=flat-square&logo=github&logoColor=C4B5FD)](https://github.com/priyanshjhaa/CodeMap)
 
-`Next.js` `Node.js` `PostgreSQL` `Redis` `LLMs`
+![Next.js](https://img.shields.io/badge/Next.js-18181B?style=flat&logo=nextdotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-15803D?style=flat&logo=nodedotjs&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1D4ED8?style=flat&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-B91C1C?style=flat&logo=redis&logoColor=white)
+![LLMs](https://img.shields.io/badge/LLMs-7E22CE?style=flat)
 
 ---
 
@@ -79,7 +89,12 @@ I am a full-stack product engineer who moves comfortably between **what should w
 [![Live](https://img.shields.io/badge/OPEN-LIVE_PRODUCT-7E22CE?style=flat-square&logo=vercel&logoColor=white)](https://execute-web-i7u4.vercel.app)
 [![Source](https://img.shields.io/badge/SOURCE-GITHUB-111827?style=flat-square&logo=github&logoColor=C4B5FD)](https://github.com/priyanshjhaa/Execute)
 
-`Next.js` `TypeScript` `Supabase` `Drizzle` `Groq` `Resend`
+![Next.js](https://img.shields.io/badge/Next.js-18181B?style=flat&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-1D4ED8?style=flat&logo=typescript&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-047857?style=flat&logo=supabase&logoColor=white)
+![Drizzle](https://img.shields.io/badge/Drizzle-3F6212?style=flat&logo=drizzle&logoColor=white)
+![Groq](https://img.shields.io/badge/Groq-C2410C?style=flat)
+![Resend](https://img.shields.io/badge/Resend-18181B?style=flat&logo=resend&logoColor=white)
 
 <details>
 <summary><strong>More shipped products</strong></summary>

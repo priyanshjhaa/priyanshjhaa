@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="72" viewBox="0 0 600 72" role="img" aria-labelledby="title desc">
+  <title id="title">Design, build, ship</title>
+  <desc id="desc">Three colorful product builder badges with staggered animated underline accents.</desc>
+  <style>
+    .signal { animation: sweep 6s ease-in-out infinite; transform-box: fill-box; transform-origin: left; }
+    .build { animation-delay: -4s; }
+    .ship { animation-delay: -2s; }
+    @keyframes sweep { 0%, 65%, 100% { transform: scaleX(.15); opacity: .45; } 25%, 40% { transform: scaleX(1); opacity: 1; } }
+    @media (prefers-reduced-motion: reduce) { .signal { animation: none; } }
+  </style>
+  <g font-family="Arial, Helvetica, sans-serif">
+    <rect x="1" y="1" width="190" height="66" rx="12" fill="#123B36" stroke="#5EEAD4"/>
+    <path d="M18 24l6-6 8 8-6 6h-8z" fill="none" stroke="#5EEAD4" stroke-width="2"/>
+    <text x="44" y="28" fill="#99F6E4" font-size="14" font-weight="700">DESIGN WITH INTENT</text>
+    <text x="18" y="47" fill="#D1FAE5" font-size="12">Start with the user.</text>
+    <rect class="signal" x="18" y="56" width="155" height="3" rx="1.5" fill="#5EEAD4"/>
+    <rect x="204" y="1" width="190" height="66" rx="12" fill="#30204F" stroke="#C4B5FD"/>
+    <path d="M229 20l-7 6 7 6m10-12 7 6-7 6" fill="none" stroke="#C4B5FD" stroke-width="2"/>
+    <text x="255" y="28" fill="#DDD6FE" font-size="14" font-weight="700">BUILD WITH CARE</text>
+    <text x="221" y="47" fill="#EDE9FE" font-size="12">Make the system dependable.</text>
+    <rect class="signal build" x="221" y="56" width="155" height="3" rx="1.5" fill="#C4B5FD"/>
+    <rect x="407" y="1" width="190" height="66" rx="12" fill="#4A2434" stroke="#FDA4AF"/>
+    <path d="M424 26l5 5 10-11" fill="none" stroke="#FDA4AF" stroke-width="2"/>
+    <text x="449" y="28" fill="#FECDD3" font-size="14" font-weight="700">SHIP AND LEARN</text>
+    <text x="424" y="47" fill="#FFE4E6" font-size="12">Release. Listen. Improve.</text>
+    <rect class="signal ship" x="424" y="56" width="155" height="3" rx="1.5" fill="#FDA4AF"/>
+  </g>
+</svg>
